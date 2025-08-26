@@ -183,7 +183,9 @@ def clean_for_json(data):
     if isinstance(data, (np.int64, np.int32)):
         return int(data)
     if isinstance(data, (np.float64, np.float32, float)):
-        return float(data) if not (math.isnan(data) or math.isinf(data)) else 0.0
+        if math.isnan(data) or math.isinf(data):
+            return None
+        return float(data)
 
     # Containers
     if isinstance(data, list):
@@ -194,7 +196,7 @@ def clean_for_json(data):
     # Pandas NA
     try:
         if pd.isna(data):
-            return 0
+            return None
     except Exception:
         pass
 
@@ -403,6 +405,17 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
         return tmp
     tips = tips_df.rename(columns={"Date": "Date_tip"}).copy()
     win_df = win_df.rename(columns={"Date": "Date_win"}).copy()
+    
+    # Ensure join keys exist and are of the same type before the fuzzy merge
+    for col in ["track_fp", "horse_fp"]:
+        if col not in tips.columns:
+            tips[col] = ""
+        if col not in win_df.columns:
+            win_df[col] = ""
+        tips[col] = tips[col].astype(str)
+        win_df[col] = win_df[col].astype(str)
+    
+    # Handle the fuzzy merge case
     if ("race_num" in tips.columns and "race_num" in win_df.columns and
         tips["race_num"].isna().mean() > 0.9 and win_df["race_num"].isna().mean() > 0.9):
         fb = tips.merge(
@@ -417,12 +430,20 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
             subset=["Date_tip","track_fp","horse_fp"], keep="first"
         )
         return fb
+    
+    # Ensure join keys exist and are of the same type for the standard merge
     join_cols = [c for c in ["track_fp","race_num","horse_fp"] if c in tips.columns and c in win_df.columns]
+    
     if not join_cols:
         tmp = tips.copy()
         for c in ["bsp","morningwap","win_lose","Date_win","field_size"]:
             tmp[c] = np.nan
         return tmp
+
+    for col in join_cols:
+        tips[col] = tips[col].astype(str)
+        win_df[col] = win_df[col].astype(str)
+
     merged = tips.merge(win_df, on=join_cols, how="left")
     return merged
 
@@ -430,7 +451,10 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
 def perform_full_analysis(dataframes: Dict) -> Dict:
     response = {"daily_summary": [], "charts": {}}
     tips_df = dataframes.get("tips")
+    
+    # Initialize the variable to None to prevent the NameError
     race_data_df = dataframes.get("race_data")
+    
     win_prices_df = dataframes.get("win_prices")
 
     chart_keys = [
@@ -447,6 +471,25 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
 
     # Merge base with race data (if any)
     if race_data_df is not None and not race_data_df.empty:
+        # Before merging, ensure columns exist in race_data_df
+        if "track_fp" not in race_data_df.columns:
+            race_data_df["track_fp"] = np.nan
+        if "horse_fp" not in race_data_df.columns:
+            race_data_df["horse_fp"] = np.nan
+        if "race_num" not in race_data_df.columns:
+            race_data_df["race_num"] = np.nan
+        if "field_size" not in race_data_df.columns:
+            race_data_df["field_size"] = np.nan
+            
+        # The fix: Explicitly convert the merge keys to string type
+        # to ensure consistency and prevent the ValueError.
+        tips_df["track_fp"] = tips_df["track_fp"].astype(str)
+        race_data_df["track_fp"] = race_data_df["track_fp"].astype(str)
+        tips_df["horse_fp"] = tips_df["horse_fp"].astype(str)
+        race_data_df["horse_fp"] = race_data_df["horse_fp"].astype(str)
+        tips_df["race_num"] = tips_df["race_num"].astype(str)
+        race_data_df["race_num"] = race_data_df["race_num"].astype(str)
+
         merged = tips_df.merge(
             race_data_df[["track_fp","race_num","horse_fp","BestOdds","field_size"]],
             on=["track_fp","race_num","horse_fp"], how="left"
@@ -593,6 +636,7 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
     else:
         response["charts"]["win_rate_vs_field_size"] = {"labels": ["0"], "data": [0]}
 
+    # Final step: Ensure all values are JSON-safe before returning.
     return clean_for_json(response)
 
 # ----------------------- API -----------------------
@@ -664,7 +708,17 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
 
             elif "race" in lowname:
                 dataframes["race_data"] = raw.copy()
-
+                if "Track" in dataframes["race_data"].columns:
+                    dataframes["race_data"]["Track"] = dataframes["race_data"]["Track"].astype(str).map(standardize_track)
+                    dataframes["race_data"]["track_fp"] = dataframes["race_data"]["Track"].map(token_fingerprint)
+                if "Horse Name" in dataframes["race_data"].columns:
+                    dataframes["race_data"]["Horse Name"] = dataframes["race_data"]["Horse Name"].astype(str).map(standardize_horse)
+                    dataframes["race_data"]["horse_fp"] = dataframes["race_data"]["Horse Name"].map(token_fingerprint)
+                if "race_num" in dataframes["race_data"].columns:
+                    dataframes["race_data"]["race_num"] = dataframes["race_data"]["race_num"].apply(extract_race_num)
+                if "field_size" not in dataframes["race_data"].columns:
+                    dataframes["race_data"]["field_size"] = np.nan
+                
             elif "win" in lowname or "prices" in lowname:
                 dataframes["win_prices"] = transform_betfair_prices_to_internal(raw, lowname)
 
@@ -686,6 +740,16 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
 
         if "tips" not in dataframes or dataframes["tips"].empty:
             raise HTTPException(status_code=400, detail="No tips data found or derivable from upload.")
+        
+        # Ensure tips_df has all the necessary fingerprint columns before analysis
+        if "track_fp" not in dataframes["tips"].columns:
+            dataframes["tips"]["track_fp"] = dataframes["tips"].get("Track", pd.Series([np.nan]*len(dataframes["tips"]))).astype(str).map(token_fingerprint)
+        if "horse_fp" not in dataframes["tips"].columns:
+            dataframes["tips"]["horse_fp"] = dataframes["tips"].get("Horse Name", pd.Series([np.nan]*len(dataframes["tips"]))).astype(str).map(token_fingerprint)
+        if "race_num" not in dataframes["tips"].columns:
+            dataframes["tips"]["race_num"] = dataframes["tips"].get("race_num", pd.Series([np.nan]*len(dataframes["tips"])))
+        if "field_size" not in dataframes["tips"].columns:
+            dataframes["tips"]["field_size"] = np.nan
 
         result = perform_full_analysis(dataframes)
 
