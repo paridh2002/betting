@@ -40,6 +40,7 @@ function getBaseColorIndexForChart(elementId) {
   return _chartColorIndex[elementId];
 }
 
+// Compute bins client-side if needed (legacy)
 function computeHistogram(values, binCount = 20) {
   const data = (values || []).filter(v => typeof v === 'number' && isFinite(v));
   if (data.length === 0) return { xs: [], ys: [], labels: [] };
@@ -276,7 +277,7 @@ function populateDashboard(data) {
   if (charts.price_movement_histogram) {
     createPlotCard('price-movement-histogram', 'Price Movement Distribution', 'grid-col-6 min-h-400');
     renderRainbowHistogram(charts.price_movement_histogram, 'price-movement-histogram', {
-      xaxis: { title: 'Price Movement (fraction)', type: 'linear' },
+      xaxis: { title: 'Price Movement (fraction)', type: 'category' },
       yaxis: { title: 'Frequency' }
     });
   }
@@ -299,17 +300,25 @@ function renderDailySummary(summaryData) {
       <th>Win Rate %</th><th>Avg Odds</th><th>CLV %</th><th>Drifters %</th><th>Steamers %</th>
       </tr></thead><tbody>`;
   summaryData.forEach(day => {
+    const ur = Number.isFinite(day['Units Returned']) ? day['Units Returned'] : 0;
+    const roi = Number.isFinite(day['ROI %']) ? day['ROI %'] : 0;
+    const wr  = Number.isFinite(day['Win Rate %']) ? day['Win Rate %'] : 0;
+    const ao  = Number.isFinite(day['Avg Odds']) ? day['Avg Odds'] : 0;
+    const clv = Number.isFinite(day['CLV']) ? day['CLV'] : 0;
+    const drf = Number.isFinite(day['Drifters %']) ? day['Drifters %'] : 0;
+    const stm = Number.isFinite(day['Steamers %']) ? day['Steamers %'] : 0;
+
     tableHTML += `<tr>
         <td>${day.Date || 'N/A'}</td>
         <td>${day['Bets Placed'] ?? 0}</td>
         <td>${day['Units Staked'] ?? 0}</td>
-        <td>${(day['Units Returned'] ?? 0).toFixed(2)}</td>
-        <td>${(day['ROI %'] ?? 0).toFixed(2)}</td>
-        <td>${(day['Win Rate %'] ?? 0).toFixed(2)}</td>
-        <td>${(day['Avg Odds'] ?? 0).toFixed(2)}</td>
-        <td>${(day['CLV'] ?? 0).toFixed(2)}</td>
-        <td>${(day['Drifters %'] ?? 0).toFixed(2)}</td>
-        <td>${(day['Steamers %'] ?? 0).toFixed(2)}</td>
+        <td>${ur.toFixed(2)}</td>
+        <td>${roi.toFixed(2)}</td>
+        <td>${wr.toFixed(2)}</td>
+        <td>${ao.toFixed(2)}</td>
+        <td>${clv.toFixed(2)}</td>
+        <td>${drf.toFixed(2)}</td>
+        <td>${stm.toFixed(2)}</td>
       </tr>`;
   });
   tableHTML += '</tbody></table></div>';
@@ -325,16 +334,22 @@ function createPlotCard(id, title, gridClass) {
 }
 
 function renderBarChart(data, elementId, options = {}) {
-  if (!data || !data.labels || data.labels.length === 0) return;
+  if (!data || !data.labels) return;
+  const labels = data.labels || [];
+  const values = (Array.isArray(data.data) && data.data.length === labels.length)
+    ? data.data
+    : labels.map(() => 0);
+  if (labels.length === 0) return;
+
   const layout = { ...plotlyLayoutConfig, ...options, title: '', bargap: 0.18, barmode: 'group' };
   const baseIdx = getBaseColorIndexForChart(elementId);
-  const barColors = data.labels.map((_, i) =>
+  const barColors = labels.map((_, i) =>
     VIBRANT_CATEGORICAL_PALETTE[(baseIdx + i) % VIBRANT_CATEGORICAL_PALETTE.length]
   );
 
   const plotData = [{
-    x: options.orientation === 'h' ? data.data : data.labels,
-    y: options.orientation === 'h' ? data.labels : data.data,
+    x: options.orientation === 'h' ? values : labels,
+    y: options.orientation === 'h' ? labels : values,
     type: 'bar',
     orientation: options.orientation || 'v',
     marker: { color: barColors, line: { color: '#0f172a', width: 1.2 }, opacity: 0.95 },
@@ -347,16 +362,25 @@ function renderBarChart(data, elementId, options = {}) {
 }
 
 function renderLineChart(chartData, elementId, options = {}) {
-  if (!chartData || !chartData.labels || chartData.labels.length === 0) return;
-  const datasets = chartData.datasets || [{ name: 'Value', data: chartData.data }];
+  if (!chartData || !chartData.labels) return;
+
+  let datasets = Array.isArray(chartData.datasets) ? chartData.datasets : [];
+  if (datasets.length === 0 && chartData.labels.length > 0) {
+    const d = (Array.isArray(chartData.data) && chartData.data.length === chartData.labels.length)
+      ? chartData.data
+      : chartData.labels.map(() => 0);
+    datasets = [{ name: 'Value', data: d }];
+  }
+  if (chartData.labels.length === 0) return;
+
   const baseIdx = getBaseColorIndexForChart(elementId);
 
   const plotData = datasets.map((dataset, i) => {
     const col = VIBRANT_CATEGORICAL_PALETTE[(baseIdx + i) % VIBRANT_CATEGORICAL_PALETTE.length];
     return {
       x: chartData.labels,
-      y: dataset.data,
-      name: dataset.name,
+      y: dataset.data || [],
+      name: dataset.name || `Series ${i+1}`,
       type: 'scatter',
       mode: 'lines+markers',
       line: { color: col, width: 3.25, shape: 'spline', smoothing: 0.7 },
@@ -373,9 +397,19 @@ function renderLineChart(chartData, elementId, options = {}) {
 }
 
 function renderRainbowHistogram(chartData, elementId, options = {}) {
-  if (!chartData || !chartData.data || chartData.data.length === 0) return;
-  const { xs, ys, labels } = computeHistogram(chartData.data, 20);
-  if (xs.length === 0) return;
+  if (!chartData) return;
+
+  // Prefer server-binned histogram (labels = bins, data = counts)
+  let labels = Array.isArray(chartData.labels) ? chartData.labels.slice() : null;
+  let counts = Array.isArray(chartData.data) ? chartData.data.slice() : null;
+
+  // Fallback to client-side binning if needed
+  if (!labels || !counts || labels.length === 0 || counts.length === 0) {
+    const h = computeHistogram(chartData.data || [], 20);
+    labels = h.labels;
+    counts = h.ys;
+  }
+  if (!labels || labels.length === 0) return;
 
   const baseIdx = getBaseColorIndexForChart(elementId);
   const colors = labels.map((_, i) =>
@@ -385,7 +419,7 @@ function renderRainbowHistogram(chartData, elementId, options = {}) {
   const layout = { ...plotlyLayoutConfig, ...options, title: '', bargap: 0.06 };
   const plotData = [{
     x: labels,
-    y: ys,
+    y: counts,
     type: 'bar',
     marker: { color: colors, line: { color: '#0f172a', width: 1.2 }, opacity: 0.95 },
     hovertemplate: 'Count: %{y}<extra>%{x}</extra>'
