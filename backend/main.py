@@ -1,4 +1,3 @@
-# main.py
 from typing import Dict, List, Tuple
 from fastapi import FastAPI, File, UploadFile, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -121,7 +120,6 @@ def _list_saved_files() -> List[dict]:
                     try:
                         with open(meta_path, "r", encoding="utf-8") as f:
                             items.append(json.load(f))
-                        # if anything fails, skip silently
                     except Exception:
                         pass
     items.sort(key=lambda x: x.get("uploaded_at", ""), reverse=True)
@@ -147,7 +145,7 @@ def _save_bundle_result(bundle_hash: str, result: dict, file_hashes: List[str], 
         "created_at": datetime.datetime.utcnow().isoformat() + "Z",
         "file_hashes": file_hashes,
         "file_names": file_names,
-        "result": None,  # filled below with json-safe copy
+        "result": None,
     }
     payload["result"] = clean_for_json(result)
     with open(os.path.join(d, "result.json"), "w", encoding="utf-8") as f:
@@ -174,34 +172,26 @@ def _list_bundles() -> List[dict]:
 
 # ----------------------- Utils -----------------------
 def clean_for_json(data):
-    # Dates / Timestamps -> ISO date string
     if isinstance(data, (pd.Timestamp, datetime.datetime, datetime.date, np.datetime64)):
         try:
             return pd.to_datetime(data).date().isoformat()
         except Exception:
             return str(data)
-
-    # Numpy numerics
     if isinstance(data, (np.int64, np.int32)):
         return int(data)
     if isinstance(data, (np.float64, np.float32, float)):
         if math.isnan(data) or math.isinf(data):
             return None
         return float(data)
-
-    # Containers
     if isinstance(data, list):
         return [clean_for_json(x) for x in data]
     if isinstance(data, dict):
         return {k: clean_for_json(v) for k, v in data.items()}
-
-    # Pandas NA
     try:
         if pd.isna(data):
             return None
     except Exception:
         pass
-
     return data
 
 def deep_clean_for_json(obj):
@@ -234,7 +224,7 @@ def _strip_accents_punct(s):
     return s
 
 def _remove_country_suffix(s):
-    return re.sub(r"\s*\([^)]]{2,3}\)\s*$", "", s)
+    return re.sub(r"\s*\([^)]{2,3}\)\s*$", "", s)
 
 def token_fingerprint(s):
     if not isinstance(s, str): s = str(s)
@@ -425,7 +415,6 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
     tips = tips_df.rename(columns={"Date": "Date_tip"}).copy()
     win_df = win_df.rename(columns={"Date": "Date_win"}).copy()
 
-    # Ensure join keys exist and are of the same type before the fuzzy merge
     for col in ["track_fp", "horse_fp"]:
         if col not in tips.columns:
             tips[col] = ""
@@ -434,7 +423,6 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
         tips[col] = tips[col].astype(str)
         win_df[col] = win_df[col].astype(str)
 
-    # Handle the fuzzy merge case
     if ("race_num" in tips.columns and "race_num" in win_df.columns and
         tips["race_num"].isna().mean() > 0.9 and win_df["race_num"].isna().mean() > 0.9):
         fb = tips.merge(
@@ -450,7 +438,6 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
         )
         return fb
 
-    # Ensure join keys exist and are of the same type for the standard merge
     join_cols = [c for c in ["track_fp","race_num","horse_fp"] if c in tips.columns and c in win_df.columns]
     if not join_cols:
         tmp = tips.copy()
@@ -465,7 +452,7 @@ def match_win_prices_to_tips(tips_df: pd.DataFrame, win_df: pd.DataFrame) -> pd.
     merged = tips.merge(win_df, on=join_cols, how="left")
     return merged
 
-# -------------------- Main analysis (fixed to render all 7 charts) --------------------
+# -------------------- Main analysis --------------------
 def perform_full_analysis(dataframes: Dict) -> Dict:
     response = {
         "daily_summary": [],
@@ -492,8 +479,6 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
         for need in ["track_fp", "horse_fp", "race_num", "field_size", "BestOdds"]:
             if need not in race_data_df.columns:
                 race_data_df[need] = np.nan
-
-        # ensure string join keys
         for col in ["track_fp", "horse_fp", "race_num"]:
             tips_df[col] = tips_df.get(col, "").astype(str)
             race_data_df[col] = race_data_df[col].astype(str)
@@ -510,7 +495,7 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
         if "field_size" not in merged.columns:
             merged["field_size"] = np.nan
 
-    # -------- Bring in win prices (or pass-through for _tips_from_prices) ----------
+    # -------- Bring in win prices ----------
     if dataframes.get("_tips_from_prices"):
         merged.rename(columns={"Date": "Date_tip"}, inplace=True)
         merged["Date_win"] = merged["Date_tip"]
@@ -521,24 +506,47 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
             for c in ["bsp", "morningwap", "win_lose", "Date_win"]:
                 merged[c] = np.nan
 
-    # Pick final Date column (prefer Date_win when available)
     orig_date = pd.to_datetime(merged.get("Date"), errors="coerce").dt.date if "Date" in merged.columns else pd.NaT
     dw = pd.to_datetime(merged.get("Date_win"), errors="coerce").dt.date
     merged["Date"] = np.where(pd.notna(dw), dw, orig_date)
     merged["Date"] = pd.to_datetime(merged["Date"], errors="coerce").dt.date
 
     # Ensure numeric & safe
-    for c in ["bsp", "morningwap", "BestOdds", "win_lose", "field_size"]:
+    for c in ["bsp","morningwap","BestOdds","win_lose","field_size"]:
         if c in merged.columns:
             merged[c] = as_numeric_safe(merged[c])
         else:
             merged[c] = np.nan
     merged["win_lose"] = merged["win_lose"].fillna(0)
 
+    # --- Derive field_size when missing or mostly missing ---
+    try:
+        need_fs = "field_size" not in merged.columns or merged["field_size"].isna().mean() > 0.5
+    except Exception:
+        need_fs = True
+    if need_fs:
+        keys = ["Date", "track_fp", "race_num"]
+        for k in keys:
+            if k not in merged.columns:
+                merged[k] = np.nan
+        grp_idx = merged.dropna(subset=["track_fp", "race_num"]).index
+        if len(grp_idx) > 0:
+            gdf = merged.loc[grp_idx, ["Date", "track_fp", "race_num", "horse_fp"]].copy()
+            gdf["race_num"] = gdf["race_num"].astype(str)
+            counts = (
+                gdf.groupby(["Date", "track_fp", "race_num"])["horse_fp"]
+                   .transform("nunique")
+                   .astype(float)
+                   .rename("fs_derived")
+            )
+            merged.loc[grp_idx, "field_size"] = merged.loc[grp_idx, "field_size"].where(
+                pd.notna(merged.loc[grp_idx, "field_size"]), counts.values
+            )
+
     # Effective best odds (use Morning WAP when BestOdds is missing)
     merged["BestOdds_eff"] = np.where(merged["BestOdds"] > 1, merged["BestOdds"], merged["morningwap"])
 
-    # Profit per bet: + (bsp-1) on winners, -1 on losers/unknown bsp
+    # Profit per bet
     merged["Profit"] = np.where(merged["win_lose"] == 1, merged["bsp"], 0) - 1
     merged.loc[merged["bsp"].isna(), "Profit"] = -1
 
@@ -566,7 +574,7 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
     if "Tip Website" not in merged.columns:
         merged["Tip Website"] = "DefaultTipster"
 
-    # ------------- Cumulative Profit (by Tipster) -------------
+    # ------------- Cumulative Profit -------------
     dp = (merged.groupby(["Tip Website","Date"], as_index=False)["Profit"]
                  .sum()
                  .sort_values(["Tip Website","Date"]))
@@ -576,8 +584,6 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
         response["charts"]["cumulative_profit"]["datasets"] = [
             {"name": col, "data": pivot[col].fillna(0).round(4).tolist()} for col in pivot.columns
         ]
-    else:
-        response["charts"]["cumulative_profit"] = {"labels": [], "datasets": []}
 
     # ------------- 30-day Rolling ROI -------------
     ds = merged.groupby(["Tip Website","Date"]).agg(
@@ -589,8 +595,6 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
     if not ds.empty:
         for tip, g in ds.groupby("Tip Website"):
             g = g.sort_values("Date").set_index("Date")
-            if g.index.size == 0:
-                continue
             full_idx = pd.date_range(g.index.min(), g.index.max(), freq="D")
             g = g.reindex(full_idx, fill_value=0)
             g["bets_roll"] = g["bets"].rolling(30, min_periods=1).sum()
@@ -607,8 +611,6 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
         response["charts"]["rolling_roi"]["datasets"] = [
             {"name": col, "data": p[col].fillna(0).round(4).tolist()} for col in p.columns
         ]
-    else:
-        response["charts"]["rolling_roi"] = {"labels": [], "datasets": []}
 
     # ------------- ROI by Tipster -------------
     rbt = merged.groupby("Tip Website")["Profit"].mean().fillna(0) * 100.0
@@ -634,11 +636,10 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
         "data": rob.round(4).tolist()
     }
 
-    # ------------- Price Movement Histogram (bins + counts) -------------
+    # ------------- Price Movement Histogram -------------
     pm_mask = (merged["bsp"] > 1) & (merged["morningwap"] > 1)
     pmv = ((merged.loc[pm_mask, "bsp"] - merged.loc[pm_mask, "morningwap"]) /
            merged.loc[pm_mask, "morningwap"]).astype(float)
-
     if pmv.empty:
         response["charts"]["price_movement_histogram"] = {"labels": ["0"], "data": [0]}
     else:
@@ -655,10 +656,7 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
     valid = (merged["bsp"] > 1) & (merged["BestOdds_eff"] > 1)
     merged["clv_calc"] = ((merged["bsp"] / merged["BestOdds_eff"]) - 1) * 100.0
     clvt = merged.loc[valid].groupby("Date")["clv_calc"].mean()
-
-    if clvt.empty:
-        response["charts"]["clv_trend"] = {"labels": [], "datasets": []}
-    else:
+    if not clvt.empty:
         response["charts"]["clv_trend"] = {
             "labels": [d.strftime("%Y-%m-%d") for d in clvt.index],
             "datasets": [{"name": "CLV", "data": clvt.fillna(0).round(4).tolist()}]
@@ -683,7 +681,6 @@ def perform_full_analysis(dataframes: Dict) -> Dict:
 @app.post("/analyze/")
 async def analyze_betting_files(files: List[UploadFile] = File(...)):
     try:
-        # 1) Read bytes, compute per-file hashes, persist originals
         bytes_list = []
         original_names = []
         file_hashes = []
@@ -696,13 +693,11 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
             h, _ = _save_file(data, f.filename or "uploaded")
             file_hashes.append(h)
 
-        # 2) Compute bundle hash and return cached result if present
         bundle_hash = _compute_bundle_hash(file_hashes)
         cached = _bundle_cached(bundle_hash)
         if cached is not None:
             return JSONResponse(cached)
 
-        # 3) Not cached: parse & analyze
         dataframes: Dict[str, pd.DataFrame] = {}
         for data, fname in zip(bytes_list, original_names):
             lowname = (fname or "uploaded").lower()
@@ -735,15 +730,12 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
 
             elif "tips" in lowname or "scrape" in lowname:
                 df = raw.copy()
-
-                # Column standardization for tips files
                 tips_column_map = {
                     'Scrape Date': 'Date',
                     'First Selection Name': 'Horse Name',
                     'Race': 'race_num'
                 }
                 df = df.rename(columns=tips_column_map)
-
                 if "Track" in df.columns:
                     df["Track"] = df["Track"].astype(str).map(standardize_track)
                     df["track_fp"] = df["Track"].map(token_fingerprint)
@@ -757,8 +749,6 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
 
             elif "race" in lowname and "data" in lowname:
                 dataframes["race_data"] = raw.copy()
-
-                # Column standardization for race data files
                 race_data_column_map = {
                     'HorseName': 'Horse Name',
                     'RaceTrack': 'Track',
@@ -767,7 +757,6 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
                     'BestOdds': 'BestOdds'
                 }
                 dataframes["race_data"] = dataframes["race_data"].rename(columns=race_data_column_map)
-
                 if "Track" in dataframes["race_data"].columns:
                     dataframes["race_data"]["Track"] = dataframes["race_data"]["Track"].astype(str).map(standardize_track)
                     dataframes["race_data"]["track_fp"] = dataframes["race_data"]["Track"].map(token_fingerprint)
@@ -776,8 +765,6 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
                     dataframes["race_data"]["horse_fp"] = dataframes["race_data"]["Horse Name"].map(token_fingerprint)
                 if "race_num" in dataframes["race_data"].columns:
                     dataframes["race_data"]["race_num"] = dataframes["race_data"]["race_num"].apply(extract_race_num)
-
-                # Derive field size
                 if "field_size" not in dataframes["race_data"].columns:
                     field_size_df = dataframes["race_data"].groupby(['Track', 'race_num'])['Horse Name'].transform('count').rename('field_size')
                     dataframes["race_data"]["field_size"] = field_size_df
@@ -804,7 +791,7 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
         if "tips" not in dataframes or dataframes["tips"].empty:
             raise HTTPException(status_code=400, detail="No tips data found or derivable from upload.")
 
-        # Ensure tips_df has all the necessary fingerprint columns before analysis
+        # Ensure fingerprints
         if "track_fp" not in dataframes["tips"].columns:
             dataframes["tips"]["track_fp"] = dataframes["tips"].get("Track", pd.Series([np.nan]*len(dataframes["tips"]))).astype(str).map(token_fingerprint)
         if "horse_fp" not in dataframes["tips"].columns:
@@ -816,7 +803,7 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
 
         result = perform_full_analysis(dataframes)
 
-        # ---- Build a JSON-safe copy of tips for the frontend
+        # JSON-safe copy of tips for frontend table (optional)
         tips_copy = dataframes["tips"].copy()
         for col in tips_copy.columns:
             if (pd.api.types.is_datetime64_any_dtype(tips_copy[col]) or
@@ -837,7 +824,6 @@ async def analyze_betting_files(files: List[UploadFile] = File(...)):
                      .to_dict(orient="records")
         )
 
-        # 4) Save result for future reuse
         _save_bundle_result(bundle_hash, safe_result, file_hashes, original_names)
 
         return {
@@ -892,7 +878,7 @@ async def get_bundle_result(bundle_hash: str):
 async def health():
     return {"status": "healthy"}
 
-# ----------------------- Static frontend (optional) -----------------------
+# ----------------------- Static frontend -----------------------
 script_dir = os.path.dirname(__file__)
 frontend_dir = os.path.join(os.path.dirname(script_dir), "frontend")
 if os.path.exists(frontend_dir):

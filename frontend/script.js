@@ -40,7 +40,6 @@ function getBaseColorIndexForChart(elementId) {
   return _chartColorIndex[elementId];
 }
 
-// Compute bins client-side if needed (legacy)
 function computeHistogram(values, binCount = 20) {
   const data = (values || []).filter(v => typeof v === 'number' && isFinite(v));
   if (data.length === 0) return { xs: [], ys: [], labels: [] };
@@ -341,6 +340,14 @@ function renderBarChart(data, elementId, options = {}) {
     : labels.map(() => 0);
   if (labels.length === 0) return;
 
+  // Optional: if truly all zeros, show a simple note instead of invisible bars
+  const allZero = values.length && values.every(v => Number(v) === 0);
+  if (allZero) {
+    const el = document.getElementById(elementId);
+    if (el) el.innerHTML = '<div style="padding:16px;color:#A0AEC0">No data to display yet.</div>';
+    return;
+  }
+
   const layout = { ...plotlyLayoutConfig, ...options, title: '', bargap: 0.18, barmode: 'group' };
   const baseIdx = getBaseColorIndexForChart(elementId);
   const barColors = labels.map((_, i) =>
@@ -399,7 +406,7 @@ function renderLineChart(chartData, elementId, options = {}) {
 function renderRainbowHistogram(chartData, elementId, options = {}) {
   if (!chartData) return;
 
-  // Prefer server-binned histogram (labels = bins, data = counts)
+  // Prefer server-binned histogram
   let labels = Array.isArray(chartData.labels) ? chartData.labels.slice() : null;
   let counts = Array.isArray(chartData.data) ? chartData.data.slice() : null;
 
