@@ -1,0 +1,1018 @@
+HorseName,HorseNum,Barrier,JockeyName,JockeyWeight,RaceTrack,RaceNum,Distance,TrackCond,ClassInfo,Prize,Weather,RaceTime,BestOdds,OddsSource
+Shaggy,1,1,William A Stanley,60.5kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,5.6,BoomBet
+Hello Romeo,2,7,Chad Schofield,58.5kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,21,Betfair
+Nashville Jack,3,2,Jason Collett,57.0kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,5.7,Betfair
+Open Secret,4,6,Alysha Collett,56.5kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,11,Bet365
+Steel Knight,5,5,Zac Lloyd,56.5kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,14,Sportsbet
+Nazwah,7,4,Tom Sherry,55.0kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,2.05,BoomBet
+Wisnierska,8,9,Kerrin McEvoy,55.0kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,51,Bet365
+Koibito,10,3,Regan Bayliss,54.0kg,Randwick,R1,1100m,Soft 6,2YO Open Hcp,$160k,11°C moderate rain,11:20:00,17.5,Betfair
+Promitto,1,9,Benjamin Osmond,62.5kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,12.2,BoomBet
+Kingston Charm,2,7,Zac Lloyd,59.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,5.1,BoomBet
+Forecaster,3,1,William A Stanley,59.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,5.5,Bet365
+Glad You Think So,4,12,Joshua Parr,59.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,10,Bet365
+High Dandy,5,14,Alysha Collett,59.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,15,TABtouch
+Agita,7,6,Chad Schofield,57.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,27,Ladbrokes
+Sunsource,8,5,Tom Sherry,56.5kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,29,PointsBet
+Callistemon,9,16,Jason Collett,56.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,4.2,Betfair
+Nosey Parker,11,4,Anna Roper,55.5kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,29,PointsBet
+So Sleek,12,13,Jay Ford,55.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,53,BoomBet
+Jacob's Time,13,3,Robbie P Downey,54.5kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,51,PointsBet
+Mizella,14,8,Ashley Morgan,54.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,23.5,BoomBet
+Binkou,15,2,Kerrin McEvoy,54.0kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,61,Ubet
+Starphistocated,16,11,Andrew Adkins,53.5kg,Randwick,R2,1600m,Soft 6,3YO+ BM 72 Hcp,$120k,11°C moderate rain,11:55:00,9,Bet365
+Destinys Summit,2,1,Micheal Hellyer,58.5kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,23.5,BoomBet
+Mishani Extreme,3,10,Rikki Jamieson,58.0kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,32,BoomBet
+Bodysnatcher,5,8,Taylor Marshall,56.5kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,19,ColossalBet
+Dragon Link,6,3,Damien Thornton,56.5kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,2.75,BoomBet
+Boomshanka,7,9,Angela Jones,56.0kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,2.7,Betfair
+Issy's Star,8,7,Kyle Wilson-taylor,56.0kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,7.1,BoomBet
+Sweet Hesitation,9,4,Bailey Wheeler,56.0kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,6.1,BoomBet
+Ode To Beauty,10,5,Jake Bayliss,54.0kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,51,Bet365
+Australasia,11,2,Siobhan Rutledge,53.0kg,Doomben,R1,1110m,Soft 5,2YO Open Hcp,$85k,14°C overcast clouds,12:03:00,63,BoomBet
+Cherish Me,1,4,Craig Williams,58.0kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,3.7,Betfair
+Ole Dancer,2,1,Blake Shinn,58.0kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,3.5,Betfair
+Autumn Mystery,3,6,Patrick Moloney,57.5kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,13,Bet365
+Cannyworth,4,2,Jamie Mott,57.0kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,9.8,Betfair
+Brazenga,5,9,John Allen,56.0kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,43,BoomBet
+Miewa,6,5,Jamie Melham,55.5kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,9.6,Betfair
+Thanks Gorgeous,8,3,Tom Prebble,55.0kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,9.2,Betfair
+Shystar,9,8,Joe Bowditch,54.0kg,Caulfield,R1,1200m,Soft 5,2YO Open Hcp,$150k,10°C overcast clouds,12:10:00,11,TABtouch
+Edorado,1,4,Jess Taylor,57.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,43,BoomBet
+Extra Power,2,1,Nick Heywood,57.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,41,Ubet
+Patissier,3,5,Christian Reith,57.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,3.7,TABtouch
+Hammoon Heroine,4,8,Keagan Latham,55.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,9,Sportsbet
+Hurry Miss,5,9,Mitchell Bell,55.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,1.7,Ubet
+Precinct,7,7,Jean Van Overmeire,55.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,10.2,BoomBet
+Varekova,9,2,Brock Ryan,55.0kg,Kembla Grange,R1,1400m,Good 4,3YO Mdn Set Weight,$60k,11°C light rain,12:15:00,9.6,BoomBet
+Cool Conway,1,2,Sean Cormack,60.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,4.2,Sportsbet
+Extremely Frilly,2,5,Aidan Holt,59.5kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,10.2,BoomBet
+Gee Up,3,10,Cobi Vitler,59.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,7.5,Ladbrokes
+Moochi Starlight,4,8,Ryan Wiggins,59.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,4.3,Betfair
+Capricornus,5,3,McKenzie Apel,58.5kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,7.2,Betfair
+Ravenite,6,7,Georgina Cartwright,58.5kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,11.2,BoomBet
+Dawn Embers,7,4,Ashley Butler,58.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,6.6,Betfair
+Miss Comaneci,8,6,Adam Sewell,57.5kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,19.2,BoomBet
+Chiaro Di Luna,9,11,Chris McIver,54.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,53,BoomBet
+Mishani Amore,10,1,Nikki Olzard,54.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,53,BoomBet
+Zaboog,11,9,Raul Silvera Olivera,54.0kg,Mackay,R1,1100m,Good 4,Mdn Hcp,$32k,21°C broken clouds,12:19:00,151,ColossalBet
+The Creator,1,7,Rochelle Milnes,60.5kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,8.5,Ladbrokes
+Starts Now,2,1,Jake Toeroek,59.0kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,3.2,Bet365
+Brave Star,3,6,Jacob Opperman,58.5kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,4.25,BoomBet
+Booker Tee,4,3,Stacey Metcalfe,57.0kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,161,BoomBet
+Dothraki,5,2,Alana Livesey,56.5kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,43,BoomBet
+Under The Cone,6,5,Todd Pannell,56.5kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,4.6,Bet365
+Shoeless,8,9,Zac Spain,56.0kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,4.8,Bet365
+Annihilate,9,8,Liam Riordan,55.0kg,Morphettville,R1,1600m,Heavy 9,4YO+ BM 74 Hcp,$65k,12°C light rain,12:22:00,11,Bet365
+Wolf Club,1,2,Benjamin Osmond,59.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,36,BoomBet
+Full Of Sincerity,2,11,Ashley Morgan,57.5kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,9.6,BoomBet
+So You Are,3,4,Dylan Gibbons,57.5kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,9.6,BoomBet
+Moon Sweeper,4,7,Kerrin McEvoy,57.5kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,7.4,Betfair
+Scarli Japali,5,8,Alysha Collett,57.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,53,BoomBet
+In Summer,6,1,Jason Collett,57.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,2.7,Betfair
+Red Rags To Bulls,7,5,Tom Sherry,57.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,9.5,Ladbrokes
+Off The Scale,8,13,Rory Hutchings,57.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,9.8,Betfair
+Straight Fire,9,3,Adam Hyeronimus,57.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,21.5,BoomBet
+Grandini,12,16,Anna Roper,55.5kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,27.5,BoomBet
+Jasper's Way,13,10,Madeline Owen,57.5kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,27.5,BoomBet
+Smart Jazz,15,12,William A Stanley,59.0kg,Randwick,R3,1800m,Soft 6,3YO+ CL3 Set Weight,$120k,11°C moderate rain,12:30:00,35,BoomBet
+Weigall Tiger,2,7,Corey Sutherland,59.0kg,Doomben,R2,1615m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,12:38:00,3.45,BoomBet
+Skyforger,3,6,Leslie Tilley,58.0kg,Doomben,R2,1615m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,12:38:00,6,ColossalBet
+Space Age,5,8,Angela Jones,56.5kg,Doomben,R2,1615m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,12:38:00,4.5,Betfair
+Indifference,6,3,Kyle Wilson-taylor,55.0kg,Doomben,R2,1615m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,12:38:00,18,ColossalBet
+Sir Carter,7,1,Rob Thorburn,54.5kg,Doomben,R2,1615m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,12:38:00,12.2,BoomBet
+Kadall,8,2,Damien Thornton,54.0kg,Doomben,R2,1615m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,12:38:00,2.98,Betfair
+Namesake,1,8,Jaylah Kennedy,61.5kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,21.5,BoomBet
+Chinqui,2,10,Logan Bates,61.0kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,10,Betfair
+Luna Cat,3,2,Ethan Brown,59.0kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,17,Sportsbet
+Bold Print,4,5,Craig Williams,58.5kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,18.5,Betfair
+Wolfy,5,11,Jamie Mott,58.5kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,15,Betfair
+Naval Academy,6,9,Jamie Melham,57.0kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,12,Betfair
+Gala Queen,7,3,Joe Bowditch,56.5kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,7.1,BoomBet
+Moonhaven,8,4,Luke Cartwright,56.5kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,16,BoomBet
+Pop Award,10,6,Matthew Cartwright,55.0kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,5,Betfair
+Verdoux,11,1,Blake Shinn,55.0kg,Caulfield,R2,1100m,Soft 5,BM 78 Hcp,$80k,10°C overcast clouds,12:45:00,3.4,Betfair
+Cinsault,1,1,Mitchell Bell,58.0kg,Kembla Grange,R2,1300m,Good 4,F&M Mdn Set Weight,$42k,11°C light rain,12:50:00,1.3,Ubet
+Gyra,2,4,Brock Ryan,58.0kg,Kembla Grange,R2,1300m,Good 4,F&M Mdn Set Weight,$42k,11°C light rain,12:50:00,5.6,BoomBet
+Sass,5,2,Louise Day,58.0kg,Kembla Grange,R2,1300m,Good 4,F&M Mdn Set Weight,$42k,11°C light rain,12:50:00,10.2,BoomBet
+Stormzino,6,7,Coriah Keatings,58.0kg,Kembla Grange,R2,1300m,Good 4,F&M Mdn Set Weight,$42k,11°C light rain,12:50:00,35,BoomBet
+Angel City,7,3,Keagan Latham,55.5kg,Kembla Grange,R2,1300m,Good 4,F&M Mdn Set Weight,$42k,11°C light rain,12:50:00,9,Ubet
+Rich Again,1,4,Ashley Butler,60.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,34,Ubet
+The Krone,2,10,Adin Thompson,60.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,131,BoomBet
+Capital Lover,3,2,Olivia Kendal,59.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,26,Bet365
+Kai Mondo,4,11,Chris McIver,59.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,14,Ladbrokes
+Andiron,5,7,Jackson Murphy,58.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,17.2,BoomBet
+Mimmy's Secret,6,3,Adam Sewell,58.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,18,Ladbrokes
+Woodstock Rock,8,1,Ryan Wiggins,58.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,4.4,Ubet
+Little Miss Belle,9,9,Raul Silvera Olivera,57.5kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,81,Ubet
+Flying Animo,10,6,McKenzie Apel,57.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,1.99,Betfair
+Hell Of A Bentley,11,12,Jason Taylor,57.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,35,BoomBet
+Querida,12,14,Sean Cormack,57.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,7.6,BoomBet
+Crimson Decipher,13,8,Georgina Cartwright,56.0kg,Mackay,R2,1100m,Good 4,Restricted 60 Hcp,$30k,21°C broken clouds,12:54:00,23,Ladbrokes
+Extremely Lucky,2,2,Todd Pannell,57.5kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,4.6,ColossalBet
+Twin Perfection,3,8,Lachlan Neindorf,54.0kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,5,Bet365
+Lingani,4,6,Taylor Johnstone,54.0kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,4.05,BoomBet
+Sixteen Reasons,5,1,Rochelle Milnes,54.0kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,3.75,Betfair
+Zanthron,6,4,Teagan Voorham,54.0kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,4.2,Bet365
+Direct,7,7,Zac Spain,54.0kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,71,Ladbrokes
+The Gov,8,3,Alana Livesey,54.0kg,Morphettville,R2,1050m,Heavy 9,4YO+ Open Hcp,$65k,12°C light rain,12:57:00,63,BoomBet
+Best Time,1,8,Alana Kelly,59.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,2.4,Ladbrokes
+Buzzaroon,2,2,Tom Madden,59.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,7.5,Ladbrokes
+Hand Of Doom,4,1,Dean Yendall,59.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,27,Ladbrokes
+Heez De Man,5,9,Jack Hill,59.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,5.5,BetR
+I'm Inspired,6,6,Brad Rawiller,59.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,15,TABtouch
+Call Me Rhonda,7,10,Chelsea Jokic,57.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,2.75,BoomBet
+Toomanysteps,9,4,Jake Duffy,57.5kg,Murtoa,R1,1600m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:01:00,23.5,BoomBet
+Codetta,1,4,Zac Wadick,59.0kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,5.6,BoomBet
+Diddle Dumpling,2,9,William A Stanley,59.0kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,7.1,BoomBet
+Signor Tortoni,3,7,Jason Collett,58.0kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,5.8,Betfair
+Stardeel,4,6,Joshua Parr,57.5kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,3.8,Bet365
+Bartolf,5,2,Kerrin McEvoy,57.0kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,17,Sportsbet
+Glorious Moments,6,1,Heavelon Van Der Hoven,56.5kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,3.9,BoomBet
+Cougars,7,3,Alysha Collett,56.0kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,29,PointsBet
+Cosmeena,9,5,Madeline Owen,53.5kg,Randwick,R4,1300m,Soft 6,3YO BM 72 Hcp,$160k,11°C moderate rain,13:05:00,20.5,BoomBet
+Heman,2,2,Corey Sutherland,61.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,6.9,BoomBet
+Cold One,4,3,Damien Thornton,60.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,34,ColossalBet
+Rock Hard Love,5,9,Ryan Maloney,59.5kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,6,Ladbrokes
+Let Fly,6,8,Jag Guthmann-chester,59.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,26.5,BoomBet
+Our Turn Now,7,6,Emily Lang,59.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,11.2,BoomBet
+Who Ordered Dafish,8,15,Cody Collis,58.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,15.2,BoomBet
+Watermelon,9,10,Dale Smith,57.5kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,43,BoomBet
+More Love,11,7,Rikki Jamieson,56.5kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,11,Sportsbet
+Chayse 'n' Adam,12,5,Anthony Allen,55.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,10,Bet365
+Pleadeel,13,19,Taylor Marshall,55.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,41,Bet365
+Jillaroo,14,13,Angela Jones,54.5kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,5.3,Betfair
+Pele Princess,15,17,Stacey Callow,54.5kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,23.5,BoomBet
+Haysiri,16,16,Karl Zechner,56.5kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,63,BoomBet
+Takunai,17,4,Leslie Tilley,56.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,41,Bet365
+Kairos Louie,18,1,Luke P Dempsey,55.0kg,Doomben,R3,1615m,Soft 5,BM 70 Hcp,$75k,14°C overcast clouds,13:13:00,7.6,Betfair
+Mr Square Pants,1,7,Liam Blanch,59.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Santos El Halper,2,8,Cassey Williams,59.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Weather,3,5,Jade Metcalfe,59.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Fizzy Dizzy,4,3,Mikayla Weir,57.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Insain Flame,5,2,Wendy Peel,57.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Miss Heroic,6,6,Ben Looker,57.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Pride Of Nations,7,4,Siena Grima,57.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Soofree,8,1,Luke Rolls,57.0kg,Inverell,R1,1200m,Heavy 10,Mdn Set Weight,$16k,11°C moderate rain,13:16:00,0.0,N/A
+Jimmy The Bear,2,4,Ben Melham,59.0kg,Caulfield,R3,2400m,Soft 5,3YO+ Open Set Weight With Penalties,$175k,10°C overcast clouds,13:20:00,1.47,Betfair
+Midnight Glow,4,1,Craig Newitt,57.0kg,Caulfield,R3,2400m,Soft 5,3YO+ Open Set Weight With Penalties,$175k,10°C overcast clouds,13:20:00,13.2,BoomBet
+Dictionary,5,2,Daniel Stackhouse,57.0kg,Caulfield,R3,2400m,Soft 5,3YO+ Open Set Weight With Penalties,$175k,10°C overcast clouds,13:20:00,23.5,BoomBet
+Chihuly,6,6,Blake Shinn,57.0kg,Caulfield,R3,2400m,Soft 5,3YO+ Open Set Weight With Penalties,$175k,10°C overcast clouds,13:20:00,5.5,ColossalBet
+First Day,7,7,Declan Bates,55.0kg,Caulfield,R3,2400m,Soft 5,3YO+ Open Set Weight With Penalties,$175k,10°C overcast clouds,13:20:00,31,ColossalBet
+Woolmar,1,1,Nathan Thomas,59.5kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,3.7,BetR
+Denman Avenue,2,7,Minonette Kennedy,59.0kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,55,Betfair
+Gold Stars,3,5,Shakira Bailey,59.0kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,7.6,Betfair
+Hot Flamingo,4,3,Stephanie Tierney,57.5kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,3.55,Betfair
+Richboy Harry,5,2,Kelly Gates,57.5kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,4.7,Betfair
+Blame The Bubbles,6,4,Tom Orr,57.0kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,6,Betfair
+Secret Caviar,7,6,Rebecca Wilson,57.0kg,Bundaberg,R1,1090m,Good ,2YO+ Mdn Set Weight,$10k,18°C overcast clouds,13:22:00,21,Betfair
+Aldezor,1,5,Mitch Stapleford,59.0kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,26,TABtouch
+Karmardo,2,7,Keagan Latham,59.0kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,3.8,Ubet
+King Of The Ring,3,8,Brock Ryan,59.0kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,14.2,BoomBet
+Roman City,4,6,Donovan Yeo,59.0kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,5.5,Ubet
+Alamagan,5,4,Louise Day,56.5kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,35,BoomBet
+Sigma,6,1,Jean Van Overmeire,56.5kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,6,Ubet
+Tong Ho,7,3,Mitchell Bell,56.5kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,12,TABtouch
+Valedictorian,8,2,Jeff Penza,56.5kg,Kembla Grange,R3,1300m,Good 4,CH&G Mdn Set Weight,$42k,11°C light rain,13:25:00,2.5,Ubet
+Amicus Curiae,2,2,Cobi Vitler,62.0kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,7.2,Betfair
+Capo Strada,4,3,Aidan Holt,58.5kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,5.8,Betfair
+Fortress Australia,5,4,Ashley Butler,58.5kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,1.7,Bet365
+Reggie's Boy,6,12,Jackson Murphy,58.5kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,10.2,BoomBet
+Bold Hunter,7,1,Adin Thompson,57.5kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,43,BoomBet
+Divine Okay,8,11,McKenzie Apel,57.0kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,12.2,BoomBet
+Flying Shamus,9,7,Sean Cormack,57.0kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,9.2,Betfair
+Galbalan,13,13,Jason Taylor,54.0kg,Mackay,R3,1200m,Good 4,BM 75 Hcp,$30k,21°C broken clouds,13:29:00,61,Ubet
+Snoopy Now,1,7,Connor Murtagh,60.5kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,4.65,BoomBet
+Stirrup Cup,2,12,Teagan Voorham,58.5kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,8.6,Betfair
+Sav On Ice,3,11,Rochelle Milnes,57.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,4.8,Ladbrokes
+Mometz,4,3,Will Price,55.5kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,5.8,Betfair
+Shadow Eagle,5,8,Taylor Johnstone,55.5kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,19,Bet365
+Big Brute,6,10,Jacob Opperman,55.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,19.2,BoomBet
+Tudaya,7,5,Liam Riordan,54.5kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,35,BoomBet
+Tropical House,8,2,Zac Spain,54.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,8.2,Betfair
+Scandalize,9,13,Felicity Atkinson,54.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,21,Bet365
+Stomp'em,10,4,Caitlin Tootell,54.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,15,Bet365
+Gin Rummy,11,6,Justin Potter,54.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,51,Ladbrokes
+Mystical Wisdom,12,9,Lachlan Neindorf,54.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,23,ColossalBet
+Fast Tempo,13,1,Alana Livesey,54.0kg,Morphettville,R3,1600m,Heavy 9,3YO BM 72 Hcp,$65k,12°C light rain,13:32:00,151,Ubet
+Bow Ribbon,1,3,Sarah Field,59.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,15.5,Betfair
+Dear Duchess,3,15,Jake Duffy,57.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,26,TABtouch
+Dolce D'amour,4,10,Ryan Hurdle,57.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,12.2,BoomBet
+Simply Sassy,7,16,Alana Kelly,57.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,2.6,TABtouch
+Tank Girl,9,12,Paul Gatt,57.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,18,BetR
+Think Baby,10,9,Dean Yendall,57.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,3.45,BoomBet
+Corro,11,13,Lachlan King,57.0kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,4,BetR
+Havilah,17,14,Melissa Julius,57.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,46,Sportsbet
+Independent Sam,18,8,Sam Kennedy,59.5kg,Murtoa,R2,1200m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,13:36:00,101,ColossalBet
+Ruby Flyer,1,6,William A Stanley,60.5kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,19.2,BoomBet
+Super Helpful,2,5,Adam Hyeronimus,59.5kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,26,Sportsbet
+Green Shadows,3,3,Alysha Collett,59.0kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,8.6,Betfair
+Oh Diamond Lil,4,9,Jason Collett,56.5kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,2.44,Betfair
+Louisville,5,8,Tommy Berry,56.5kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,16,ColossalBet
+Battleton,6,2,Ashley Morgan,56.0kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,8.6,Betfair
+Uzziah,7,1,Molly Bourke,56.0kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,9.2,Betfair
+Unlimited,8,7,Zac Lloyd,55.0kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,41,Sportsbet
+Aberlour,9,4,Andrew Adkins,54.5kg,Randwick,R5,1600m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,13:40:00,6.1,BoomBet
+Cee Pee One,1,5,Jason Lyon,59.0kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Thank God I Gothim,2,4,Aaron Sweeney,59.0kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Predicting,3,6,Raymond Vigar,58.5kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Starlite Dexter,4,7,Jade Hampson,58.5kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Juelene,5,2,Sonja D Wiseman,57.0kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Cassette,6,1,Hannah Le Blanc,56.5kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Nature Girl,7,8,Kristo Sardelic,56.5kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+No I'm Not,8,3,Jessica Booth,56.5kg,Darwin,R1,1100m,1100m,Mdn Set Weight,$25k,24°C broken clouds,13:42:00,0.0,N/A
+Apuntar,1,14,Cody Collis,60.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,6.1,BoomBet
+I'm Heroic,2,10,Corey Sutherland,58.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,14.2,BoomBet
+Ramp It Up,3,6,Bailey Wheeler,57.5kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,5.1,BoomBet
+Victory Flame,4,8,Kyle Wilson-taylor,55.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,6,Bet365
+Heavenly Impact,5,4,Taylor Marshall,54.5kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,51,Ladbrokes
+Mr O'reilly,6,13,Damien Thornton,54.5kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,41,Bet365
+Dracena,7,3,Anthony Allen,54.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,7.5,Sportsbet
+Heavenly Love,8,2,Montanna Savva,54.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,19,Bet365
+Sir Goldalot,9,1,Emily Lang,54.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,12,Ladbrokes
+Bollinger Miss,10,9,Angela Jones,53.5kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,7.2,Betfair
+Everywhere,12,12,Jake Bayliss,53.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,34,Bet365
+Backstage,14,5,Winona Costin,52.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,10,Bet365
+Laridae,16,15,Siobhan Rutledge,54.0kg,Doomben,R4,1615m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,13:48:00,151,Bet365
+Catch The Prize,1,6,Yvette Lewis,59.0kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Diva Rouge,2,3,Ben Looker,59.0kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Celestial Bell,3,5,Wendy Peel,58.5kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Sorutal,4,1,Siena Grima,58.0kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Zouandme,5,7,,58.0kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Kool Bruce,6,8,,57.5kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,0.0,N/A
+Spoiler,7,2,Mikayla Weir,56.5kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Stolen Show,8,4,Billy Cray,56.5kg,Inverell,R2,1050m,Heavy 10,Mdn Hcp,$16k,11°C moderate rain,13:51:00,1.01,Ubet
+Stop The Rock,1,14,Tom Prebble,60.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,8.1,BoomBet
+American Wolf,2,16,Blake Shinn,57.5kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,8.4,Betfair
+Ant,3,5,Ben Melham,55.5kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,3.5,Betfair
+Stylish Secret,4,15,Craig Williams,55.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,7.4,Betfair
+Baffleck,5,12,Jett Stanley,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,131,BoomBet
+Dun Wondering,6,10,Eoin Walsh,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,63,BoomBet
+Empirestateofmind,7,3,Craig Newitt,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,53,BoomBet
+Filadeel,8,17,Beau Mertens,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,53,BoomBet
+Frontline Action,9,18,Jaylah Kennedy,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,10,Betfair
+Morthan Efficient,10,8,Declan Bates,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,43,BoomBet
+Rotating Soul,11,1,Logan Bates,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,73,BoomBet
+Silver Pledge,12,13,Neil Farley,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,21.5,BoomBet
+Triora,13,9,Matthew Cartwright,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,111,BoomBet
+Verona Rupes,14,4,Luke Cartwright,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,11,Betfair
+Procean,15,6,Jye McNeil,53.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,12.5,Betfair
+Grassy Spur,18,11,,54.0kg,Caulfield,R4,2400m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,13:55:00,221,BoomBet
+Coincide,1,8,Kayla Barker,63.5kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,8,Betfair
+Just Bingo,2,3,Tom Orr,63.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,9.6,Betfair
+Nicconori,3,4,Shakira Bailey,62.5kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,2.55,BoomBet
+Cinderella Man,4,9,Isabel Jessop,62.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,19,Ubet
+Master Drumer,5,7,Rebecca Wilson,59.5kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,55,Betfair
+Cultural Spirit,6,2,Nathan Thomas,58.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,7,Betfair
+Braidwood Queen,7,1,Bailie Baker,57.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,7,Ubet
+Darling Clementine,8,6,Minonette Kennedy,57.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,7.1,BoomBet
+Flick,10,11,Kelly Gates,55.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,27,Ladbrokes
+Miss Rinehart,11,10,Adam Spinks,55.0kg,Bundaberg,R2,1212m,Good ,BM 55 Hcp,$10k,18°C overcast clouds,13:57:00,61,Ubet
+Wild Thoughts,1,6,Chad Lever,59.0kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,2.05,TABtouch
+Zoustrong,2,9,Keagan Latham,58.0kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,9.1,BoomBet
+More Cash,3,1,Holly Durnan,57.0kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,12.2,BoomBet
+Damascus Calling,4,4,Grant Buckley,56.5kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,12.2,BoomBet
+Penalties,5,3,Brock Ryan,55.5kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,3.65,BoomBet
+Radion,6,8,Shaun Guymer,55.5kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,161,BoomBet
+Autumn Heir,7,7,Jean Van Overmeire,55.0kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,6.6,BoomBet
+Kermalicious,8,5,Andrew Gibbons,55.0kg,Kembla Grange,R4,1500m,Good 4,Mdn Hcp,$45k,11°C light rain,14:00:00,19.2,BoomBet
+Baby Guinness,1,5,Sean Cormack,59.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,14,Sportsbet
+Chickerartie,2,6,Aidan Holt,59.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,16.2,BoomBet
+Hearsay,3,7,Paul Hamblin,58.5kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,19.2,BoomBet
+Booga Ray,4,2,Ashley Butler,57.5kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,4,Ubet
+Street Glory,5,1,Ryan Wiggins,57.5kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,5.8,Betfair
+Rothesay's Ruby,6,10,Adin Thompson,57.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,8.6,Betfair
+Tigon Princess,7,8,Georgina Cartwright,57.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,3.65,Betfair
+El Of A Senorita,9,11,Cobi Vitler,55.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,7.2,Betfair
+Moon Over Matilda,10,3,Chris McIver,54.5kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,23,Ubet
+Roy's Road,11,4,Raul Silvera Olivera,54.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,51,Bet365
+Well Rested,12,9,Adam Sewell,54.0kg,Mackay,R4,1560m,Good 4,F&M BM 70 Hcp,$50k,21°C broken clouds,14:04:00,161,BoomBet
+Bancoora,1,6,Jacob Opperman,60.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,6.6,BoomBet
+From The Block,2,10,Jake Toeroek,60.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,1.83,Betfair
+High On Sugar,5,7,Ben Price,58.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,15.2,BoomBet
+Even Sharper,6,8,Taylor Johnstone,57.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,15,Bet365
+Hot Strut,7,13,Margaret Collett,57.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,10.2,BoomBet
+Hypernova,8,12,Justin Potter,57.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,12,Bet365
+Tallapoosa,9,11,Liam Riordan,56.5kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,35,BoomBet
+Mercury Eight,10,14,Stacey Metcalfe,56.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,35,Sportsbet
+Never Surrender,11,3,Jason Holder,56.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,14,Ubet
+Tiritiri,12,4,Zac Spain,56.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,69,BoomBet
+Duchess Of Sussex,13,2,Felicity Atkinson,55.5kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,53,BoomBet
+Bona Fide Star,14,5,Alana Livesey,55.0kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,63,BoomBet
+Ponty Well,15,9,Caitlin Tootell,54.5kg,Morphettville,R4,1200m,Heavy 9,CL2 Hcp,$55k,12°C light rain,14:07:00,63,BoomBet
+Circa,2,7,Chelsea Jokic,59.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,41,BetR
+Irlandais,3,17,Tom Madden,59.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,11.2,BoomBet
+Brydan,5,1,Jake Duffy,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,5.5,Ubet
+Miss Maverick,7,4,Alana Kelly,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,46,Sportsbet
+Ranselot,8,5,Linda Meech,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,5.6,BoomBet
+Takemetothemoon,9,2,Jack Hill,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,7,Ubet
+Tsarina Diamonds,11,3,Lauren Burke,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,3.15,BoomBet
+Tha Maestro,12,16,Melissa Julius,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,14,TABtouch
+Reelzaz,14,12,Ryan Hurdle,57.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,161,BoomBet
+Vellasglory,15,8,Brad Rawiller,59.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,6.6,BoomBet
+Smokin' Rohie,16,11,Sarah Field,59.5kg,Murtoa,R3,2050m,Heavy 10,2YO+ Mdn Set Weight,$27k,7°C light rain,14:11:00,16,Ubet
+Nana's Wish,2,4,Anna Roper,61.0kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,7.1,BoomBet
+Hasty Honey,3,12,William A Stanley,60.5kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,11,BoomBet
+Belle Savoir,4,8,Madeline Owen,59.5kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,63,BoomBet
+She's Unusual,5,2,Benjamin Osmond,59.5kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,2.8,Bet365
+Extraordinaire,6,5,Tom Sherry,59.0kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,10.5,Betfair
+Changing Colours,7,6,Jason Collett,58.5kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,5.5,Bet365
+Very Sewreel,9,9,Dylan Gibbons,57.5kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,21.5,BoomBet
+Bright Red,10,1,Tommy Berry,57.0kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,4.5,Betfair
+Investment,12,13,Andrew Adkins,54.0kg,Randwick,R6,1800m,Soft 6,3YO+ F&M BM 78 Hcp,$160k,11°C moderate rain,14:15:00,91,Sportsbet
+Field Of Flutes,1,5,Kristo Sardelic,59.0kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Pharoah Magic,2,8,Jarrod Todd,58.0kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Hello World,3,6,Sonja D Wiseman,57.0kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Devils Delight,4,2,Aaron Sweeney,56.5kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Vinnie's Spirit,5,1,Dakota-lee Gillett,56.5kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Munster,6,9,Jessica Booth,56.0kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Damo Dayz,7,3,Paul Shiers,55.5kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Brat,8,4,Stan Tsaikos,55.0kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Polarising,9,7,Jason Lyon,54.0kg,Darwin,R2,1100m,1100m,Open Hcp,$32k,24°C broken clouds,14:17:00,0.0,N/A
+Jonny Da Wolf,2,3,Kyle Wilson-taylor,60.0kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,3.25,BoomBet
+Runwiththetide,5,2,Corey Sutherland,60.0kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,11.5,Betfair
+End Assembly,10,1,Bailey Wheeler,58.5kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,5.1,Betfair
+He's For The Girls,11,14,Dan McGillivray,58.5kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,34,Ubet
+Board Member,12,8,Luke P Dempsey,58.0kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,21.5,BoomBet
+Certainlycan,13,6,Winona Costin,58.0kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,23.5,BoomBet
+Lead Me On,14,9,Cody Collis,58.0kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,4.4,Ladbrokes
+Gospel Girl,16,5,Angela Jones,56.5kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,5.1,Betfair
+Ready Azz Eva,17,11,Jag Guthmann-chester,60.0kg,Doomben,R5,1200m,Soft 5,3YO+ CL3 Set Weight,$75k,14°C overcast clouds,14:23:00,26,Bet365
+Invincible Faith,1,7,Tilly McCarroll,61.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Skates On,2,5,Ben Looker,61.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Desert Cougar,3,4,Luke Rolls,58.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Heavenly Az,4,9,Leanne Boyd,58.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Irish Arthur,5,6,Cassey Williams,58.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Vinlago,6,2,Billy Cray,58.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Winning Statement,7,8,Siena Grima,57.0kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Indian Thunder,8,3,Jade Metcalfe,56.5kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Prince Carlos,9,1,Cheryl Rogers,56.5kg,Inverell,R3,1050m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,14:26:00,0.0,N/A
+Salsa Fellow,1,3,Blake Shinn,58.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,4.8,Betfair
+Electric Tommy,4,13,Logan Bates,55.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,4.3,Betfair
+Bossy Benita,5,8,Craig Williams,54.5kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,5.5,Ladbrokes
+Brutalina,6,1,Jye McNeil,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,21.5,BoomBet
+Noetzie,7,7,Joe Bowditch,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,3.95,Betfair
+It's A Yes,8,4,Beau Mertens,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,19.5,Betfair
+Behaviour,9,10,Jamie Melham,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,21,Ubet
+Foxenberg,10,2,Matthew Cartwright,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,21.5,BoomBet
+Damehood,11,9,Jaylah Kennedy,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,43,BoomBet
+Dobkins,12,6,Declan Bates,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,111,BoomBet
+Quoin,13,11,Luke Cartwright,54.0kg,Caulfield,R5,1200m,Soft 5,3YO Open Hcp,$150k,10°C overcast clouds,14:30:00,81,Bet365
+Maximum Output,1,6,Stephanie Tierney,65.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,2.7,Ladbrokes
+Mr Tangles,2,8,Minonette Kennedy,59.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,11,BetR
+City Chick,3,7,Bailie Baker,55.5kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,8,Sportsbet
+Jamesatelli,4,5,Adam Spinks,55.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,23,Betfair
+Ablett,5,1,Chelsea Francis,55.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,2.65,BoomBet
+Clocks Ticking,6,3,Kayla Barker,55.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,17.5,Betfair
+Flying Rupert,7,4,Shakira Bailey,55.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,11,BetR
+Amphawa,8,2,Kelly Gates,55.0kg,Bundaberg,R3,850m,Good ,Open Hcp,$13.5k,18°C overcast clouds,14:32:00,63,BoomBet
+Vetwelve,1,6,Mitch Stapleford,60.5kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,2.8,TABtouch
+Affermato,2,8,Chad Lever,58.0kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,12,Ubet
+Sculptor,3,5,Jean Van Overmeire,56.0kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,7.6,BoomBet
+Commanding Belle,4,7,Brock Ryan,55.5kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,3.1,TABtouch
+Montigo Bay,5,4,Keagan Latham,55.5kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,4.8,Ladbrokes
+Zambezi River,6,1,Ryan Bradley,55.5kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,21.5,BoomBet
+Greygenta,7,2,Louise Day,55.0kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,17.2,BoomBet
+Juste Un Clou,8,3,Holly Durnan,55.0kg,Kembla Grange,R5,1300m,Good 4,CL1 Hcp,$45k,11°C light rain,14:35:00,53,BoomBet
+Cole's Best,1,4,Ryan Wiggins,60.5kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,3.95,Betfair
+Obligated,2,9,Adam Sewell,60.5kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,15,Sportsbet
+Scrub Chain,3,6,Jackson Murphy,60.5kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,4.5,Betfair
+Astra Star,4,13,Sean Cormack,58.5kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,7.6,Betfair
+Irama,5,7,Ashley Butler,56.0kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,5.3,Betfair
+Outback Bandit,6,1,Cobi Vitler,56.0kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,4.7,Betfair
+Belmont Park,7,2,Jason Taylor,54.0kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,73,BoomBet
+Rothweiler,9,5,Adin Thompson,54.0kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,53,BoomBet
+Thormendous Miss,10,8,Nikki Olzard,54.0kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,93,BoomBet
+I'm Stellar,13,11,Chris McIver,52.0kg,Mackay,R5,1560m,Good 4,3YO Open Quality,$75k,21°C broken clouds,14:39:00,47,BoomBet
+Voltage Point,4,7,Felicity Atkinson,58.0kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,10,Bet365
+Eamonn's Memory,5,13,Jacob Opperman,57.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,31,Ladbrokes
+Metrical,6,8,Jason Holder,57.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,3.35,Betfair
+Ima Shelby,7,10,Todd Pannell,56.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,27,Ladbrokes
+Pearl Adios,8,6,Taylor Johnstone,56.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,11,Bet365
+Silent Command,9,1,Caitlin Tootell,56.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,83,BoomBet
+Star Sirius,11,4,Jake Toeroek,56.0kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,2.8,ColossalBet
+Delightful Shecky,12,11,Matthew Chadwick,55.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,8,Ubet
+Divine Fire,13,2,Margaret Collett,54.5kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,53,BoomBet
+Impending Diamond,14,14,Zoe Lloyd,54.0kg,Morphettville,R5,1200m,Heavy 9,BM 76 Hcp,$65k,12°C light rain,14:42:00,10,Ladbrokes
+Akihiro,1,16,Paul Gatt,60.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,34,BoomBet
+Khant Bee,2,12,Will Gordon,60.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,2.9,Ubet
+Prince Pinot,3,17,Chelsea Jokic,60.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,5.6,BoomBet
+Ahab,4,4,Zoe Waller,59.5kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,6.5,Ladbrokes
+Bruzani,5,8,Tom Madden,59.5kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,11,Ubet
+Christmas,8,6,Linda Meech,58.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,8.1,BoomBet
+Crater Lake,9,11,Jack Hill,58.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,6.1,BoomBet
+Tekapo,11,14,Sarah Field,57.5kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,21.5,BoomBet
+Mash And Gravy,12,7,Alana Kelly,57.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,21,Ubet
+Finnhugh,13,13,Jake Duffy,57.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,14.2,BoomBet
+Groshawk,14,3,,57.0kg,Murtoa,R4,2050m,Heavy 10,Restricted 58 Hcp,$27k,7°C light rain,14:46:00,161,BoomBet
+Able Willie,1,6,Zac Wadick,60.5kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,63,BoomBet
+Dream Hour,2,2,Benjamin Osmond,60.5kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,41,Bet365
+Sacred Rocks,4,13,Anna Roper,58.0kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,2.5,BoomBet
+Little Cointreau,5,8,Adam Hyeronimus,58.0kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,5.4,BoomBet
+Unstopabull,6,5,Zac Lloyd,57.5kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,9,Bet365
+Silentsar,8,4,Tom Sherry,57.0kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,17,Sportsbet
+Drift Net,9,1,Kerrin McEvoy,56.0kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,6.5,Bet365
+Crop Duster,10,10,Robbie P Downey,55.5kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,41,Sportsbet
+Lugh,11,7,Tommy Berry,55.5kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,11,Bet365
+Slinky,12,9,Dylan Gibbons,53.5kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,15.2,BoomBet
+Starman,13,3,Jason Collett,55.0kg,Randwick,R7,1300m,Soft 6,4YO+ BM 78 Hcp,$160k,11°C moderate rain,14:50:00,21,Ubet
+Wild Beau,1,1,Jessica Booth,61.0kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Rustic Boom,2,4,Stan Tsaikos,60.5kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Black Zous,4,5,Paul Denton,58.0kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Cap Ten,5,2,Kristo Sardelic,58.0kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Juice Box,6,3,Sonja D Wiseman,57.5kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Oakland Raider,7,7,Wayne Davis,57.5kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Patriotic King,8,6,Jarrod Todd,57.5kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+Valabing,10,8,Jade Hampson,55.0kg,Darwin,R3,1000m,1000m,Restricted 66 Hcp,$25k,24°C broken clouds,14:54:00,0.0,N/A
+King Of Light,1,11,William Pike,58.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,1.55,Bet365
+Beau's A Lad,2,9,Luke Campbell,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,15.2,BoomBet
+Backchatting,3,4,Keshaw Dhurun,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,43,BoomBet
+Radiant Light,4,5,Steven Parnham,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,6.6,Betfair
+Angels Point,5,8,Amy Jo Hayes,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,111,BoomBet
+Phat Chaps,6,1,Holly Watson,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,27.5,BoomBet
+Vatican Storm,7,10,Brad Parnham,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,21,ColossalBet
+Beyond The Limits,8,2,Patrick Carbery,56.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,46,Sportsbet
+Pony Up,9,6,Troy Turner,54.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,17,Sportsbet
+Media Club,10,3,Shaun O'donnell,54.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,10,Sportsbet
+Binky's War,11,7,Laqdar Ramoly,54.0kg,Belmont,R1,1400m,Soft 7,2YO Open Set Weight With Penalties,$80k,9°C clear sky,14:58:00,23,Bet365
+Akrotiri,1,15,Cody Collis,61.0kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,5.8,Betfair
+Picko Rocks,4,8,Leslie Tilley,59.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,23,ColossalBet
+Menazzi,5,2,Jaden Lloyd,58.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,19.2,BoomBet
+Philipsburg,6,13,Winona Costin,58.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,12.2,BoomBet
+Arizona Dreaming,7,1,Dale Smith,58.0kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,21.5,BoomBet
+Knife's Edge,8,9,Karl Zechner,58.0kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,16,ColossalBet
+Ahuriri,9,12,Kyle Wilson-taylor,57.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,13,ColossalBet
+Becamo,10,4,Emily Lang,56.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,6.1,BoomBet
+Bengal Boy,11,5,Damien Thornton,56.0kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,11.2,BoomBet
+Artful Girl,12,7,Montanna Savva,55.0kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,10,Bet365
+Bitoftheblarney,13,14,Jake Bayliss,54.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,8.6,Betfair
+Celestial Fury,14,3,Angela Jones,54.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,10,ColossalBet
+Sokudo,15,11,Luke Tarrant,54.0kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,161,BoomBet
+The Irish,16,10,Siobhan Rutledge,52.5kg,Doomben,R6,2200m,Soft 5,BM 78 Hcp,$85k,14°C overcast clouds,15:02:00,26,Bet365
+Fast Da,1,5,Glenn Cahill,63.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Mammoth Mountain,2,1,Wendy Peel,62.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Kalahari Heart,3,2,Luke Rolls,60.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Cryptic Verse,4,8,,57.5kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+See The Saint,5,4,,57.5kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Victory Beans,6,7,Cheryl Rogers,57.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Boys Cry,7,3,Billy Cray,55.5kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Bie'res,8,10,Jade Metcalfe,55.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Ready To Mingle,9,6,Colleen Krahnen,55.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Code Of Silence,10,9,Jeff Kehoe,55.0kg,Inverell,R4,1600m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:05:00,0.0,N/A
+Manolo Bling,1,5,Luke Cartwright,60.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,10,Betfair
+Mystic Reign,4,13,Joe Bowditch,58.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,7.6,Betfair
+Supercilious,5,15,Blake Shinn,57.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,7.6,Betfair
+Shadhavar,6,8,John Allen,56.5kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,5.5,Bet365
+Savagery Vibe,7,7,Craig Williams,56.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,4.2,Bet365
+Sun Setting,9,12,Jye McNeil,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,9,Betfair
+Delicate Lady,10,2,Logan Bates,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,8.2,Betfair
+Keeni,11,4,Patrick Moloney,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,35,BoomBet
+Vain Champagne,12,6,Declan Bates,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,23,Bet365
+Areyoureadyforit,13,9,Jaylah Kennedy,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,69,BoomBet
+Don't Russia,15,10,Craig Newitt,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,51,Bet365
+Porsha Crystal,16,11,Thomas Prebble,54.0kg,Caulfield,R6,1100m,Soft 5,3YO F Open Hcp,$150k,10°C overcast clouds,15:10:00,32,BoomBet
+Under The Cap,1,9,Stephanie Tierney,62.0kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,8.5,Ladbrokes
+Villaden,2,10,Kayla Barker,61.0kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,8,Betfair
+Sunfall,3,3,Chelsea Francis,58.5kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,7,Betfair
+Holiday Dreams,5,6,Shakira Bailey,56.5kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,3.9,BetR
+Moorabinda Mick,6,8,Kelly Gates,55.0kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,35,BoomBet
+Heat,7,11,Tom Orr,55.0kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,5.1,Betfair
+Corkscrew,9,1,Adam Spinks,55.0kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,8.6,Betfair
+Moissanite,10,4,Nathan Thomas,55.0kg,Bundaberg,R4,1380m,Good ,Open Hcp,$18.5k,18°C overcast clouds,15:12:00,9,Betfair
+Hippolyte Rock,1,5,Jeff Penza,58.5kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,16.2,BoomBet
+Casablanca Express,2,8,Jean Van Overmeire,57.5kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,9.5,Ubet
+Swexan,3,4,Andrew Gibbons,57.5kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,15.2,BoomBet
+Jamarni,4,3,Brock Ryan,57.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,9.6,BoomBet
+San Giovanni,5,1,Keagan Latham,57.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,2.3,Ubet
+Swift Gun,6,9,Grant Buckley,57.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,19.2,BoomBet
+Tessy Tee,7,6,Andrew Calder,56.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,4.05,BoomBet
+Lady Savannah,8,2,Mitchell Bell,55.5kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,14,Ladbrokes
+Noble One,9,7,Louise Day,55.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,22.5,BoomBet
+Via Varallo,10,10,Mollie Fitzgerald,55.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,41,Ubet
+Annoint,11,11,Pierre Boudvillain,55.0kg,Kembla Grange,R6,1500m,Good 4,CL1 Hcp,$42k,11°C light rain,15:15:00,26.5,BoomBet
+Our Kiwi Princess,1,2,Kyra Yuill,60.0kg,Roebourne,R1,1205m,1205m,2YO+ BenchMark 68+ Hcp,$25k,12°C broken clouds,15:17:00,5,Ubet
+Simply Rosso,2,4,Sharni Webster,60.0kg,Roebourne,R1,1205m,1205m,2YO+ BenchMark 68+ Hcp,$25k,12°C broken clouds,15:17:00,4,Ubet
+Jackemjames,3,5,Bailey Webster,59.0kg,Roebourne,R1,1205m,1205m,2YO+ BenchMark 68+ Hcp,$25k,12°C broken clouds,15:17:00,7.1,BoomBet
+Fameux,4,3,Holly Nottle,56.0kg,Roebourne,R1,1205m,1205m,2YO+ BenchMark 68+ Hcp,$25k,12°C broken clouds,15:17:00,2.5,Bet365
+The Coolakin King,5,6,Kate Pateman,56.0kg,Roebourne,R1,1205m,1205m,2YO+ BenchMark 68+ Hcp,$25k,12°C broken clouds,15:17:00,6.25,ColossalBet
+Wakan Tanka,6,1,Lisa Staples,56.0kg,Roebourne,R1,1205m,1205m,2YO+ BenchMark 68+ Hcp,$25k,12°C broken clouds,15:17:00,19,Sportsbet
+Counter,1,8,Aidan Holt,60.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,14.2,BoomBet
+Hyde Park,2,2,Ryan Wiggins,60.0kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,6,Bet365
+Major Look,3,11,Sean Cormack,59.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,4.3,Betfair
+Odegaard,4,12,Adin Thompson,59.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,5.6,BoomBet
+Dealing's Done,5,13,Cobi Vitler,58.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,10,Bet365
+Primo,6,3,Jackson Murphy,57.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,4.2,Ladbrokes
+Albanian Bay,9,7,Olivia Kendal,56.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,11.2,BoomBet
+Rich Divinity,11,6,Georgina Cartwright,54.5kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,9,ColossalBet
+The Penske File,12,5,Nikki Olzard,54.0kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,51,Bet365
+Terminus,13,4,Jason Taylor,54.0kg,Mackay,R6,1300m,Good 4,CL3 Hcp,$30k,21°C broken clouds,15:19:00,71,Bet365
+Exabanoise,1,5,Jessica Tzaferis,60.0kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,9.2,Betfair
+Big Sue,3,16,Rochelle Milnes,59.5kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,6,Bet365
+Flyway,8,9,Felicity Atkinson,57.0kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,7.5,Bet365
+Moscow Red,9,13,Will Price,57.0kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,9,Ladbrokes
+Red Roof,11,8,Teagan Voorham,56.5kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,13.2,BoomBet
+Zarkana,12,12,Jake Toeroek,56.5kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,4.8,Bet365
+Rikki Rikkardo,13,11,Justin Potter,56.0kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,19,Ladbrokes
+Alainge,14,2,Sairyn Fawke,57.5kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,6.1,BoomBet
+Allegedly,15,10,Dylan Caboche,56.0kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,14.2,BoomBet
+Monseagle,16,4,Alana Livesey,55.5kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,20,Sportsbet
+Bellavardo,18,3,,54.0kg,Morphettville,R6,1500m,Heavy 9,4YO+ Restricted 64 Hcp,$50k,12°C light rain,15:22:00,63,BoomBet
+Boga Legend,1,1,Jake Duffy,60.0kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,2.2,Ladbrokes
+Spylark,2,5,Sarah Field,58.5kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,3.85,BoomBet
+Goliotus,4,3,Melissa Julius,58.0kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,5,Bet365
+Hot Suspect,5,8,Jack Hill,57.5kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,23,Ubet
+Four O'clock Knock,6,10,Alana Kelly,57.0kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,101,Ubet
+Handshake,7,2,Tom Madden,56.5kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,31,Ubet
+Makusha,8,9,Chelsea Jokic,55.5kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,10,Ubet
+Suffolk Star,9,6,Linda Meech,55.0kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,26.5,BoomBet
+Agreeance,10,7,Paul Gatt,54.0kg,Murtoa,R5,2050m,Heavy 10,BM 70 Hcp,$27k,7°C light rain,15:26:00,26,Ubet
+Storm The Ramparts,1,10,Adam Hyeronimus,61.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,8.2,Betfair
+Ang Pow,2,9,William A Stanley,60.0kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,63,BoomBet
+Semillion,3,13,Zac Wadick,58.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,81,Bet365
+Cigar Flick,4,6,Tommy Berry,58.0kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,12.2,BoomBet
+World Alliance,5,5,Jason Collett,57.0kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,11,Bet365
+Hi Dubai,6,8,Anna Roper,56.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,14.2,BoomBet
+The Black Cloud,7,4,Chad Schofield,56.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,7,Betfair
+Termagant,8,12,Dylan Gibbons,55.0kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,41,Ladbrokes
+Black On Beauty,9,11,Jay Ford,54.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,71,Bet365
+Lulumon,10,3,Alysha Collett,54.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,6.8,Betfair
+Bundeena,11,2,Andrew Adkins,54.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,6.6,Betfair
+Shesallshenanigans,12,7,Ashley Morgan,54.0kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,41,Bet365
+Tarpaulin,13,1,Zac Lloyd,52.5kg,Randwick,R8,1100m,Soft 6,3YO+ BM 88 Hcp,$160k,11°C moderate rain,15:30:00,4.3,Betfair
+All Inclusive,1,12,Stan Tsaikos,59.0kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Buades,2,4,Jessica Booth,57.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Alpha Street,3,1,Jarrod Todd,57.0kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Miami Baby,4,7,Jason Lyon,56.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Mougenot,5,11,Kristo Sardelic,56.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Buckleup Buddy,6,10,Paul Denton,55.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Dancer For Money,7,8,Wayne Davis,55.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Dynamic Theory,8,3,Sonja D Wiseman,55.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Forgetaboutit,9,2,Raymond Vigar,54.5kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Rossanado,10,9,Paul Shiers,54.0kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Go Go Dolly,11,5,Jade Hampson,54.0kg,Darwin,R4,1200m,1200m,3YO BM 68 Hcp,$40k,24°C broken clouds,15:34:00,0.0,N/A
+Cold Shizzle,1,4,Zephen Johnston-porter,59.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,35,BoomBet
+Hell I Am,2,3,Chanel Cooper,58.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,9.6,Betfair
+Cool Memory,3,8,Joey Azzopardi,57.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,9,Ubet
+Savage One,4,9,Clint Johnston-porter,56.5kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,15,Ubet
+Sunny Honey,5,2,Holly Watson,55.5kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,4,Ladbrokes
+Above The Peg,6,7,Shaun O'donnell,54.5kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,19,Ubet
+Emerald Trader,7,1,Jason Whiting,54.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,26,Ubet
+Kerman Rock,8,10,Laqdar Ramoly,54.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,83,BoomBet
+Success Play,9,6,Keshaw Dhurun,54.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,41,Bet365
+Supernatural,10,5,William Pike,54.0kg,Belmont,R2,1400m,Soft 7,2YO+ BenchMark 72+ Hcp,$80k,9°C clear sky,15:38:00,2.2,Ladbrokes
+Swiss Exile,1,8,Cody Collis,61.0kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,10,Bet365
+Winston Smurfhill,2,3,Corey Sutherland,60.5kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,23.5,BoomBet
+Amur,3,5,Ryan Maloney,60.0kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,10,Bet365
+Rise Of The Masses,4,2,Kyle Wilson-taylor,60.0kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,15.2,BoomBet
+Corfe Castle,5,1,Jaden Lloyd,59.0kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,34,Bet365
+Don't Stop,6,11,Rob Thorburn,59.0kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,26.5,BoomBet
+Cunnamulla Fella,7,10,Jake Bayliss,58.5kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,4.85,BoomBet
+Deep Respect,8,6,Bailey Wheeler,58.5kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,5.8,Betfair
+Castillian,9,4,Angela Jones,58.0kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,4.4,ColossalBet
+Set To Shine,11,13,Emily Lang,57.5kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,12,Bet365
+Super Duck,14,7,Stacey Callow,54.5kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,31,Bet365
+Sultry Siren,15,14,Taylor Marshall,53.5kg,Doomben,R7,1350m,Soft 5,BM 85 Hcp,$85k,14°C overcast clouds,15:42:00,11,Bet365
+Mission To Win,1,10,,63.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+A Tent Hut,2,2,Luke Rolls,62.5kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Set To Prophet,3,8,Izzy Neale,62.5kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Richunclemoneybags,4,9,Colleen Krahnen,61.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Sharpen The Knives,5,3,Glenn Cahill,61.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Injair,6,6,Leeshelle Small,60.5kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Field Agent,7,12,Ben Looker,59.5kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Chockablock,8,11,Jade Metcalfe,59.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+The Defiant One,9,1,Billy Cray,57.5kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Bad Boy Darby,10,7,Yvette Lewis,57.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Prince Carlos,11,4,Cheryl Rogers,56.5kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,0.0,N/A
+Beach Princess,12,13,Leanne Boyd,55.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Divine Rendezvous,13,5,Siena Grima,55.0kg,Inverell,R5,1200m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,15:45:00,1.01,Ubet
+Berkeley Square,1,3,Jaylah Kennedy,62.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,18.5,Betfair
+Detonator Jack,2,1,Logan Bates,62.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,10.2,BoomBet
+Munhamek,3,9,Ben Melham,59.5kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,8.5,BoomBet
+Forgot You,4,6,Blake Shinn,58.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,11,Betfair
+St Lawrence,5,5,Jamie Mott,57.5kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,14,Betfair
+Earlswood,6,7,John Allen,57.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,5.4,Betfair
+Milford,7,4,Jye McNeil,55.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,16.2,BoomBet
+Seonee,8,2,Neil Farley,54.5kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,13,Betfair
+Newlook,9,10,Jamie Melham,54.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,7.6,Betfair
+Regal Vow,10,8,Craig Williams,53.5kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,8.2,Betfair
+El Rocko,11,11,Jett Stanley,53.0kg,Caulfield,R7,1600m,Soft 5,BM 100 Hcp,$150k,10°C overcast clouds,15:50:00,11,ColossalBet
+All Business,1,12,Isabel Jessop,63.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,14.5,Betfair
+Snow Show,3,9,Stephanie Tierney,62.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,3.8,Ladbrokes
+Aces Up,4,10,Kayla Barker,61.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,3.75,Betfair
+Sideshow Frankie,5,6,Shakira Bailey,61.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,7,Betfair
+All About Lewis,6,4,Chelsea Francis,60.5kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,26,Ladbrokes
+Rapid Dude,7,1,Kelly Gates,60.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,8.6,Betfair
+Optimus Maximus,8,11,Nathan Thomas,59.5kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,13.5,Betfair
+Daunting Instinct,9,5,Bailie Baker,59.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,21,Ubet
+I'm Famous,10,7,Rebecca Wilson,59.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,21,Betfair
+Media Gem,11,8,Tom Orr,58.5kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,25,Betfair
+Beatlemania,12,3,Minonette Kennedy,55.0kg,Bundaberg,R5,1380m,Good ,BM 50 Hcp,$10k,18°C overcast clouds,15:52:00,29,BetR
+Lennox,1,6,Jean Van Overmeire,60.5kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,7,Ubet
+Stylebender,2,13,Bronte Simpson,60.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,6.1,BoomBet
+Twilight Elegance,4,4,Mollie Fitzgerald,57.5kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,3.3,TABtouch
+Avion Fury,5,7,Grant Buckley,57.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,9,Ubet
+Justifiably,6,9,Christian Reith,56.5kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,15.2,BoomBet
+Maire De Paris,7,8,Louise Day,55.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,7,Ladbrokes
+Whisker To Whisker,8,3,Brock Ryan,55.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,8.5,BetR
+Montgomery,9,2,Keagan Latham,55.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,13,ColossalBet
+Cosmos Factory,10,1,Adrian Layt,55.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,21.5,BoomBet
+Threw,12,10,Olivia Chambers,55.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,35,Sportsbet
+Savant De Lune,13,5,Jessica Taylor,55.0kg,Kembla Grange,R7,2400m,Good 4,3YO+ BM 64 Hcp,$42k,11°C light rain,15:55:00,71,Ubet
+Stay Wealthy,1,7,Giaan O'donnell,65.0kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Archer County,2,3,Natika Riordan,62.0kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Artie's Comet,3,5,Jessica Gray,60.0kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Uni Queen,4,2,Bailey Webster,60.0kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Reginald,5,1,Holly Nottle,57.5kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Divine Judgement,6,6,Sharni Webster,56.5kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Urban Warrior,7,4,Kate Pateman,56.5kg,Roebourne,R2,1813m,1813m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,15:57:00,0.0,N/A
+Hype,1,5,Ryan Wiggins,60.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,4.7,Betfair
+Logan Street Lion,2,13,McKenzie Apel,58.5kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,8.2,Betfair
+Alcyone,3,3,Raul Silvera Olivera,57.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,63,BoomBet
+Andalus,4,7,Nikki Olzard,55.5kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,73,BoomBet
+Kipling's Journey,5,1,Adin Thompson,55.5kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,4.9,Betfair
+Aimpoint,6,9,Adam Sewell,55.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,17.2,BoomBet
+Caffrey,7,14,Paul Hamblin,55.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,18.2,BoomBet
+Quothquan,8,15,Cobi Vitler,55.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,4.05,BoomBet
+Outback Action,9,10,Georgina Cartwright,54.5kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,41,Ladbrokes
+Sir Grace,10,4,Sean Cormack,54.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,13,Sportsbet
+Fortified,11,8,Jason Taylor,54.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,47,BoomBet
+Archer's Game,12,12,Jackson Murphy,53.0kg,Mackay,R7,2000m,Good 4,Open Quality,$150k,21°C broken clouds,15:59:00,9.2,Betfair
+Dandruff,1,10,Luke Currie,61.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,21.5,BoomBet
+Dream All Day,2,3,Zac Spain,59.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,4.8,Betfair
+The Autumn Belle,4,7,Taylor Johnstone,59.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,6.5,Bet365
+Wine Barron,5,15,Todd Pannell,59.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,5.5,Bet365
+Flying Assassin,6,8,Connor Murtagh,58.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,32,BoomBet
+High Society Girl,7,2,Jessica Tzaferis,58.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,9.1,BoomBet
+Idon'tgetit,8,16,Liam Riordan,58.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,19.2,BoomBet
+Lomax,9,13,Jake Toeroek,57.5kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,12,Bet365
+Chance Taken,10,17,Felicity Atkinson,56.5kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,11.5,Betfair
+Exalted Ruth,11,5,Caitlin Tootell,56.5kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,43,BoomBet
+Shakespeare,13,18,Stacey Metcalfe,56.5kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,34,Bet365
+Silent Emmy,15,4,Rochelle Milnes,54.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,12.2,BoomBet
+Peta's Heart,16,1,Ben Price,54.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,12.2,BoomBet
+American Trouble,17,12,Justin Potter,54.0kg,Morphettville,R7,2000m,Heavy 9,BM 68 Hcp,$55k,12°C light rain,16:02:00,221,BoomBet
+Royal Inference,1,8,Tom Madden,60.0kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,6.5,Ubet
+Gold Governor,4,5,John Keating,59.5kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,9,BetR
+Tapa Capall,5,7,Brad Rawiller,59.5kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,6.5,Ladbrokes
+His Zedness,6,1,Jake Duffy,59.0kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,15.2,BoomBet
+Whiskey Hangover,7,14,Alana Kelly,59.0kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,7.5,Sportsbet
+Psychotic,8,4,Linda Meech,58.5kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,4,Ladbrokes
+Elsie Girl,11,2,Paul Gatt,56.5kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,21,Ubet
+Pendante,12,11,Sam Kennedy,56.5kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,23.5,BoomBet
+Forest Diamond,13,12,Sarah Field,56.5kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,6.5,BetR
+Don'tcallmechamp,15,16,,57.0kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,26,Ubet
+Last Dream,16,18,Kate Walters,54.0kg,Murtoa,R6,1600m,Heavy 10,2YO+ Restricted 58 Hcp,$27k,7°C light rain,16:06:00,53,BoomBet
+Shall Be,2,8,Benjamin Osmond,60.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,23,Ladbrokes
+Cassiel,3,15,Tom Sherry,59.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,3.6,Bet365
+Zouprince,4,4,Adam Hyeronimus,59.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,29.5,BoomBet
+Livin' Thing,5,2,Tommy Berry,58.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,6.6,Betfair
+Core Concept,6,10,Kerrin McEvoy,58.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,23,Bet365
+Lordster,7,1,Courtney Bellamy,58.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,13.2,BoomBet
+Royal Commodore,9,14,Jay Ford,57.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,19.2,BoomBet
+Rantan,10,13,Joshua Parr,56.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,8.2,Betfair
+Opal Fields,11,9,Chad Schofield,56.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,51,Sportsbet
+Regimental Colours,12,7,Jason Collett,56.0kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,7.6,BoomBet
+Break Free,13,17,Andrew Adkins,55.5kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,9.6,Betfair
+Duke Of Bronte,14,6,Ashley Morgan,58.0kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,21,Bet365
+Zouripper,15,5,Alysha Collett,57.0kg,Randwick,R9,1100m,Soft 6,"3,4YO BM 72 Hcp",$160k,11°C moderate rain,16:10:00,14.5,Betfair
+Dummy Spit,1,7,Sonja D Wiseman,61.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Starton,2,9,Paul Denton,60.5kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Captain George,3,15,Jarrod Todd,60.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Rising Fire,4,3,Jason Lyon,60.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Beatification,5,12,Jessica Booth,59.5kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Mr Jones,6,8,Jade Hampson,59.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Collison,8,11,Aaron Sweeney,58.5kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Carat Time,11,1,Vanessa Arnott,58.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Exceedingly Magic,12,2,Raymond Vigar,58.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Travanti,13,4,Hannah Le Blanc,57.5kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Boom Smash Opera,14,14,Paul Shiers,56.0kg,Darwin,R5,1200m,1200m,Restricted 58 Hcp,$25k,24°C broken clouds,16:12:00,0.0,N/A
+Amaroo Star,1,7,Clint Johnston-porter,59.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,7,Bet365
+God's Gate,2,9,Laqdar Ramoly,58.5kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,9.5,Ubet
+Lucky I Am,3,4,Chanel Cooper,58.5kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,5.75,ColossalBet
+Main Act,4,11,Jessica Valas,58.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,14.2,BoomBet
+Yorga Pride,5,5,William Pike,57.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,2.75,TABtouch
+Battle Commander,7,6,Troy Turner,56.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,34,Ubet
+Snow God,8,10,Brad Parnham,56.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,3.85,BoomBet
+Alma Mater,9,8,Shaun O'donnell,55.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,51,Bet365
+Lipstick Jungle,10,1,Luke Campbell,55.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,51,Picklebet
+Think Lika Winner,11,2,Natasha Faithfull,55.0kg,Belmont,R3,1200m,Soft 7,3YO Open Hcp,$80k,9°C clear sky,16:14:00,69,BoomBet
+Metalart,1,6,Cody Collis,60.0kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,2.05,BoomBet
+The Big Goodbye,2,12,Corey Sutherland,59.5kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,10.5,Betfair
+All That Pizzazz,3,11,Angela Jones,58.5kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,6,BoomBet
+Nettuno,4,4,Ryan Maloney,58.0kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,6,Bet365
+At Witz End,5,3,Matthew McGuren,56.5kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,18.2,BoomBet
+Safework,6,7,Luke P Dempsey,56.0kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,32,BoomBet
+Goldsborough,9,5,Winona Costin,54.0kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,8,Sportsbet
+Kaizad,13,8,Taylor Marshall,52.0kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,23,Ladbrokes
+Light Of Boom,14,2,Emily Lang,52.0kg,Doomben,R8,1200m,Soft 5,Open Hcp,$85k,14°C overcast clouds,16:18:00,46,Ladbrokes
+Crackhorn,1,18,Leeshelle Small,62.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Jakat,2,4,Glenn Cahill,62.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Maralago,3,15,Billy Cray,61.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Pop Quiz,4,13,,60.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Browned Off,5,1,Ben Looker,59.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Cascan,6,7,Mikayla Weir,58.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Muiron,7,17,Cheryl Rogers,58.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Dodgeball,8,10,Liam Blanch,58.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+En Primeur,9,6,Wendy Peel,58.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Skeptical,10,19,Yvette Lewis,58.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Eastowin,11,9,Cassey Williams,57.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Howling Victory,12,5,Siena Grima,56.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Majestic Affair,13,16,,55.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+A Little Bit Irish,14,14,Jeff Kehoe,55.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Divine Rendezvous,15,3,,55.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Mission To Win,16,8,,63.0kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Set To Prophet,17,2,,62.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Cryptic Verse,18,11,,57.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+See The Saint,19,12,,57.5kg,Inverell,R6,1400m,Heavy 10,BM 50 Hcp,$16k,11°C moderate rain,16:21:00,0.0,N/A
+Recommendation,1,3,John Allen,58.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,9.2,Betfair
+Kallos,2,5,Ethan Brown,58.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,18.5,Betfair
+Baraqiel,3,1,Ben Allen,58.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,3.6,Betfair
+Inhibitions,4,8,Jye McNeil,56.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,14,Betfair
+Kin,5,9,Craig Williams,56.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,8,ColossalBet
+Yellow Sam,6,4,Jamie Mott,56.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,10,Bet365
+Apache Song,7,2,Blake Shinn,56.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,32,BoomBet
+New York Lustre,8,7,Jamie Melham,56.5kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,7.2,Betfair
+Bridal Waltz,9,6,Ben Melham,56.0kg,Caulfield,R8,1200m,Soft 5,G3,$200k,10°C overcast clouds,16:25:00,5.9,Betfair
+Rebel Dean,3,1,Nick Heywood,60.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,6.1,BoomBet
+Super Zippi,4,6,Olivia Chambers,60.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,19,Picklebet
+Wave Breaker,5,5,Mitchell Bell,59.5kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,5,Ubet
+Bev's Nine,6,7,Keagan Latham,59.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,2.25,Ubet
+Ces Soirees La,7,8,Shaun Guymer,59.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,14,Picklebet
+Oceans One,8,10,Emma Ly,59.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,15,Ubet
+All Too Lucky,9,3,Holly Durnan,57.5kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,6.8,BoomBet
+Artiebett,10,11,Olivia Dalton,56.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,27.5,BoomBet
+Calgary King,11,2,Mollie Fitzgerald,55.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,31,Ubet
+Scoffa,12,4,Pierre Boudvillain,55.0kg,Kembla Grange,R8,1000m,Good 4,BM 64 Hcp,$42k,11°C light rain,16:30:00,83,BoomBet
+Diamond Tipped,1,1,Kristy Bennett,60.5kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Protected Action,2,7,Bailey Webster,60.5kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Shooting Kontiki,3,2,Sharni Webster,60.5kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Yardstick,4,5,Jessica Gray,59.0kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Smart Shadow,5,6,Kyra Yuill,55.5kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Incandescent Lady,6,3,Holly Nottle,55.0kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Total Lockdown,7,4,Michael Heagney,55.0kg,Roebourne,R3,1103m,1103m,2YO+ BenchMark 56+ Hcp,$20k,12°C broken clouds,16:32:00,0.0,N/A
+Blazerro,1,4,Leah Martyn,63.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,3.25,BoomBet
+Mordecai,2,10,Adin Thompson,60.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,8.2,Betfair
+Shabooh Shalaa,3,18,Raul Silvera Olivera,60.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,23.5,BoomBet
+Gregarious,4,9,Olivia Kendal,59.5kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,14,Ladbrokes
+Kings Castle,5,2,Paul Hamblin,59.5kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,9.1,BoomBet
+Vancouver Bay,6,6,Ashley Butler,59.5kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,11.2,BoomBet
+Bella Tivaci,7,5,Jason Taylor,58.5kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,43,BoomBet
+Align The Planets,8,3,Cobi Vitler,58.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,41,PointsBet
+Bavarian Lady,9,17,Jackson Murphy,58.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,7.6,Betfair
+Triggerific,10,15,Adin Thompson,58.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,26,Bet365
+Caracristi,12,14,Sean Cormack,56.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,9.5,Ubet
+Flop Turn River,13,1,Ryan Wiggins,58.0kg,Mackay,R8,2000m,Good 4,BM 58 Hcp,$30k,21°C broken clouds,16:34:00,7.2,Betfair
+Sir Now,1,11,Margaret Collett,59.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,7,Bet365
+Scampi,2,4,Jordan Childs,59.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,6.1,BoomBet
+Colmar,3,7,Connor Murtagh,59.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,14.2,BoomBet
+Dapper Darri,4,6,Liam Riordan,59.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,19.2,BoomBet
+Major Rumble,5,9,Todd Pannell,59.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,67,Sportsbet
+Overfull,6,14,Lachlan Neindorf,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,9,Bet365
+Always Enuff,8,3,Zac Spain,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,16.2,BoomBet
+Madame Maserati,9,8,Jason Holder,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,26.5,BoomBet
+Out Of Square,10,2,Jake Toeroek,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,7.6,BoomBet
+Fieldelo,11,10,Luke Currie,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,4.8,Ladbrokes
+Daisydoo,12,1,Sairyn Fawke,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,51,ColossalBet
+Cicala,13,12,Rochelle Milnes,57.0kg,Morphettville,R8,1050m,Heavy 9,LR,$120k,12°C light rain,16:37:00,5.6,BoomBet
+Fake Magic,1,15,Sarah Field,63.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,6,BetR
+Vitruvius,2,2,Melissa Julius,62.0kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,34,BetR
+Oak Park Rebel,4,12,Ryan Hurdle,61.0kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,6,Ubet
+Tapo,6,8,Hayley Spitse,59.0kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,5.5,Ladbrokes
+Born To Shine,9,5,Tom Madden,56.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,3.7,TABtouch
+What You Will,10,7,Dean Yendall,56.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,4.6,Ladbrokes
+Tangoette,12,6,Alana Kelly,55.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,12,Sportsbet
+Legendary Diva,13,10,Christine Puls,54.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,41,BetR
+Chesspiece,14,3,Paul Gatt,54.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,51,BetR
+Don't Tell Sheriff,15,4,Tayla Childs,55.5kg,Murtoa,R7,1200m,Heavy 10,BM 64 Hcp,$27k,7°C light rain,16:41:00,67,BetR
+El Jasor,1,6,Benjamin Osmond,61.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,32,BoomBet
+Vega Magnifico,2,7,Anna Roper,60.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,13.2,BoomBet
+Miracle Spin,3,5,Adam Hyeronimus,59.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,7.2,Betfair
+Travolta,5,2,Jason Collett,58.5kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,13.2,BoomBet
+Puntin,6,10,Ashley Morgan,58.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,3,BoomBet
+Pure Alpha,7,8,Rory Hutchings,57.5kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,6.5,Sportsbet
+I've Bean Tryin',8,1,Coriah Keatings,57.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,32,BoomBet
+Misterkipchoge,10,3,Tommy Berry,56.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,8.6,Betfair
+Kazalark,11,9,Kerrin McEvoy,55.5kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,16,Ubet
+The Western Front,12,4,Regan Bayliss,55.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,12.2,BoomBet
+Aix En Provence,13,11,Andrew Adkins,55.0kg,Randwick,R10,1800m,Soft 6,3YO+ CH&G BM 78 Hcp,$160k,11°C moderate rain,16:45:00,21.5,BoomBet
+Mister Bianco,1,9,Ryan Maloney,61.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,3.25,BoomBet
+Savour The Dream,2,8,Jaden Lloyd,57.5kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,3.4,Bet365
+Facundo,3,10,Cody Collis,54.5kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,5.1,BoomBet
+Estrondo,5,1,Angela Jones,54.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,7.6,BoomBet
+Ten Good Reasons,10,16,Taylor Marshall,54.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,8.5,Ubet
+Zheng You,11,17,Montanna Savva,54.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,18,ColossalBet
+Fireforce,13,14,Emily Lang,52.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,12,Bet365
+Hello Lovely,15,2,Winona Costin,52.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,43,BoomBet
+Red Feather Boa,16,4,Siobhan Rutledge,52.0kg,Doomben,R9,1350m,Soft 5,3YO Open Hcp,$85k,14°C overcast clouds,16:50:00,53,BoomBet
+He's The Ultimate,1,8,Jason Lyon,61.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Pink Panther,2,3,Jarrod Todd,61.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Seguso,3,1,Stan Tsaikos,61.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Global Wonder,4,10,Aaron Sweeney,59.5kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Funnyifitwon,5,9,Raymond Vigar,59.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Magic Defense,6,5,Paul Denton,59.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Equal Balance,7,6,Jessica Booth,58.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Villa Seventynine,8,2,Hannah Le Blanc,57.5kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+The Final Word,9,7,Sonja D Wiseman,56.5kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Grinzinger Bishop,10,4,Jade Hampson,56.0kg,Darwin,R6,1600m,1600m,Restricted 70 Hcp,$25k,24°C broken clouds,16:52:00,0.0,N/A
+Rheinberg,1,2,Logan Bates,62.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,16.5,Betfair
+Windstorm,2,11,Luke Cartwright,61.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,26,Bet365
+Home Rule,4,1,Jaylah Kennedy,60.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,11,Betfair
+Fire Of Etna,5,12,Thomas Prebble,59.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,19.5,Betfair
+Keep Your Cool,6,6,Craig Williams,57.5kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,3.9,Betfair
+Sassy Boom,7,3,Blake Shinn,57.5kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,8,Betfair
+Haaracaine,8,14,Ben Melham,56.5kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,27,Ladbrokes
+Jabbawockeez,9,15,Declan Bates,56.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,63,BoomBet
+Blondeau,10,8,Sally Wynne,55.5kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,151,Picklebet
+True To Form,11,10,Dakotah Keane,55.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,6,Bet365
+Eye Of The Eagle,12,9,Beau Mertens,54.5kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,21,Bet365
+Pariah Pearl,13,13,Hannah Edgley,54.5kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,7,Betfair
+Eugenius,15,4,Patrick Moloney,54.0kg,Caulfield,R9,1400m,Soft 5,BM 84 Hcp,$130k,10°C overcast clouds,16:55:00,11,Sportsbet
+Arcadia Park,1,1,Clint Johnston-porter,57.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,2.62,Betfair
+Lano,2,8,Natasha Faithfull,57.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,11.2,BoomBet
+Aces To Win,3,5,Jason Brown,57.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,47,BoomBet
+Boyz Lite Up,4,7,Steven Parnham,57.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,53,BoomBet
+Royal Trooper,5,4,Holly Watson,57.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,27.5,BoomBet
+Fancy Red,6,3,William Pike,55.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,2,Ladbrokes
+Lillian,8,2,Chris Parnham,55.0kg,Belmont,R4,2200m,Soft 7,LR,$125k,9°C clear sky,17:00:00,8.6,Betfair
+Le Troy,1,8,Sharni Webster,60.0kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Matsoka,2,5,Bailey Webster,59.0kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Power Trooper,3,4,Michael Heagney,58.5kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Ginger Jive,4,2,Ava Catarino,58.0kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Make De Fortune,5,6,Jefferson Tsang,57.5kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Marines Cry,6,1,Holly Nottle,57.0kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Fine Line,7,3,Giaan O'donnell,55.0kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Hoochie Gucci,8,7,Lisa Staples,55.0kg,Roebourne,R4,1406m,1406m,2YO+ CL1 Hcp,$20k,12°C broken clouds,17:10:00,0.0,N/A
+Caladan,1,9,Jake Toeroek,59.5kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,3.45,BoomBet
+Up The Den,3,16,Todd Pannell,59.5kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,8.5,Bet365
+Magic Field,4,14,Luke Currie,59.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,26,Ladbrokes
+Cool The Jets,5,8,Connor Murtagh,58.5kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,23,Ubet
+Hot Off,6,12,Jessica Tzaferis,58.5kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,36,BoomBet
+Taking Omaha,8,7,Jason Holder,58.5kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,14,TABtouch
+Blanc Visage,9,6,Lachlan Neindorf,58.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,9.8,Betfair
+Here Comes Hogan,11,15,Jacob Opperman,58.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,41,Ladbrokes
+Purfect Line,12,13,Taylor Johnstone,58.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,8.2,Betfair
+Sun Flipper,13,1,Justin Potter,58.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,23.5,BoomBet
+I Am Piki,14,5,Rochelle Milnes,57.5kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,8.6,Betfair
+Aloha Blue,15,2,Alana Livesey,57.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,15,Bet365
+Cuban Waters,17,10,Teagan Voorham,56.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,69,BoomBet
+Rocktagon,18,4,,57.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,15,Sportsbet
+Solar Mist,20,19,Matthew Chadwick,56.0kg,Morphettville,R9,1100m,Heavy 9,Restricted 64 Hcp,$50k,12°C light rain,17:12:00,35,BoomBet
+I'm Lucky Two,1,1,Chelsea Baker,59.0kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,2.52,Betfair
+Tinkerbella,2,7,Hannah Richardson,59.0kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,7,Betfair
+Betterindanude,4,2,Olivia Webb,57.5kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,5.8,Betfair
+Einstag,5,5,Brandon Lerena,57.5kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,11,BetR
+Joyful Conquest,6,9,Sariah Champkin,57.0kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,53,BoomBet
+Lightning Drone,7,8,Nozi Tomizawa,55.5kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,7.1,BoomBet
+Tuesday,8,4,Kelsey Lenton,55.5kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,23,Ubet
+Dubble Hussle,9,3,Shania Willis,55.0kg,Toowoomba,R1,870m,Good 4,2YO Open Hcp,$22.5k,11°C broken clouds,17:16:00,53,BoomBet
+Hasseltoff,1,5,Hannah Le Blanc,63.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,6.5,Bet365
+Bear Story,2,1,Aaron Sweeney,62.5kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,63,BoomBet
+Cinque Torri,3,12,Paul Shiers,62.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,4.4,ColossalBet
+Great Buy,4,2,Dakota-lee Gillett,61.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,47,BoomBet
+Write Your Name,6,7,Jade Hampson,59.5kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,43,BoomBet
+Wolfburn,7,3,Jarrod Todd,58.5kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,13,Ladbrokes
+Motorace,8,10,Sonja D Wiseman,57.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,3.25,BoomBet
+Picaroon,9,9,Paul Denton,57.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,23.5,BoomBet
+Venting,10,11,Raymond Vigar,55.5kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,21.5,BoomBet
+Holstein,11,6,Wayne Davis,55.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,151,Ubet
+Hettinger,12,8,Jessica Booth,54.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,16.2,BoomBet
+Awash,13,4,Jason Lyon,54.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,4.2,Bet365
+Funnyifitwon,14,13,,54.0kg,Darwin,R7,1600m,1600m,Open Hcp,$50k,24°C broken clouds,17:25:00,46,Ladbrokes
+Kisses From Kelly,1,9,Shaun O'donnell,60.5kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,26.5,BoomBet
+Famous Dain,2,1,William Pike,57.5kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,3.95,BoomBet
+Sowar,3,8,Holly Watson,57.5kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,27.5,BoomBet
+Stylish Lord,4,6,Steven Parnham,57.5kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,6.6,BoomBet
+Great Fortune,5,2,Brad Parnham,57.0kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,7,Ladbrokes
+I Dreamed A Dream,6,3,Shaun McGruddy,56.5kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,61,Ubet
+Arcadia Knight,7,12,Clint Johnston-porter,56.0kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,4.7,Betfair
+Cherry Can Run,8,11,Troy Turner,56.0kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,16.2,BoomBet
+Alaskan,9,7,Chris Parnham,55.0kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,18,Ubet
+Odinaka,10,13,Luke Campbell,55.0kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,26,Bet365
+Bellini Miss,12,4,Brayden Gaerth,54.5kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,20,Ladbrokes
+More Than Enuff,13,5,Natasha Faithfull,54.0kg,Belmont,R5,1600m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,17:30:00,11,Ubet
+Kia Ora Tatou,1,9,Sharni Webster,61.5kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Make Mine Super,2,8,Natika Riordan,61.5kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Torqued Up,3,3,Holly Nottle,60.5kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+She Is God,4,2,Lisa Staples,59.5kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Choice Bid,5,10,Kate Pateman,58.5kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Heartford House,6,5,Ava Catarino,58.0kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Ortum Krisp,7,1,Kristy Bennett,55.5kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Mystic Love,8,6,Bailey Webster,55.0kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Prinsessa Anja,9,4,Giaan O'donnell,55.0kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Salchino,10,7,Kyra Yuill,55.0kg,Roebourne,R5,1205m,1205m,2YO+ CL3 Hcp,$20k,12°C broken clouds,17:45:00,0.0,N/A
+Malecon,1,9,Chelsea Baker,63.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,8.6,Betfair
+Okesutora,2,7,Kelsey Lenton,63.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,2.4,Ladbrokes
+The Manipulator,4,14,Nathan Fazackerley,57.5kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,126,Sportsbet
+Seeress,5,11,Chloe Lowe,57.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,14,Ubet
+Aoom's Choice,6,6,Nozi Tomizawa,56.5kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,3.8,Ubet
+Bolero,7,2,Karl Zechner,56.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,20,BetR
+Alfa Dundee,8,1,Kenji Yoshida,55.5kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,16,Ubet
+Lizzie's Pride,9,5,Amy Graham,54.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,26,Ubet
+December Diamond,10,4,Leslie Tilley,54.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,12,BetR
+Force Me,12,3,Olivia Webb,54.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,19.2,BoomBet
+Pauli,13,10,,54.0kg,Toowoomba,R2,2000m,Good 4,BM 58 Hcp,$22.5k,11°C broken clouds,17:53:00,67,BetR
+Bayezid,1,14,Luke Campbell,60.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,31,TABtouch
+Russian Sniper,2,13,Zephen Johnston-porter,59.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,34,Ubet
+Influencing,3,8,Natasha Faithfull,58.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,34,Ubet
+Kelvinater,4,15,Taj Dyson,58.0kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,19,Ubet
+Sentimental Belle,5,9,Chanel Cooper,58.0kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,16,Ubet
+Hostile Talk,6,3,Chloe Azzopardi,57.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,41,Ubet
+Celebrity Prince,7,1,Amy Jo Hayes,57.0kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,23.5,BoomBet
+Profit Pocket,8,10,Steven Parnham,57.0kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,19,Ubet
+Want A Winner,9,11,Chris Parnham,56.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,4.6,Betfair
+Objectify,10,6,Brad Parnham,56.0kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,14.2,BoomBet
+Horcrux,11,2,Brayden Gaerth,55.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,6,TABtouch
+Under Influence,12,5,Holly Watson,55.5kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,101,Ubet
+Essentric Nature,13,4,William Pike,55.0kg,Belmont,R6,1200m,Soft 7,2YO+ BenchMark 66+ Hcp,$80k,9°C clear sky,18:00:00,3.1,Ladbrokes
+Royalzel,1,5,Sharni Webster,61.0kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,2.7,BoomBet
+Western Impact,2,7,Giaan O'donnell,58.0kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,4,TABtouch
+Rocking The Merc,3,8,Kristy Bennett,57.5kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,15.2,BoomBet
+Commando Miss,4,6,Lisa Staples,56.5kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,10.2,BoomBet
+One Above All,5,2,Holly Nottle,56.5kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,6.5,Bet365
+Schnoots,6,4,Kyra Yuill,56.5kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,5,Sportsbet
+Magic Of Zeus,7,3,Kate Pateman,56.0kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,35,Ladbrokes
+Justhandy,8,9,Jefferson Tsang,55.0kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,32,BoomBet
+Shamara,9,1,Michael Heagney,55.0kg,Roebourne,R6,1406m,1406m,2YO+ BenchMark 56+ Hcp,$25k,12°C broken clouds,18:15:00,36,BoomBet
+Last Chance Saloon,1,6,Jasper Franklin,64.0kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,8.1,BoomBet
+Uluwatu,5,4,Bailey Wheeler,60.5kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,3.95,Betfair
+Charmed Passage,6,8,Rob Thorburn,60.0kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,5,Ubet
+Tokyo Bandit,7,1,Karl Zechner,60.0kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,21,Picklebet
+Change The Deel,8,3,Olivia Webb,59.5kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,10.2,BoomBet
+Electric Arrow,9,2,Chelsea Baker,58.5kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,12.2,BoomBet
+Lightning Strikes,10,7,Kelsey Lenton,58.0kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,3.3,Betfair
+Miss Mozambique,11,10,Leslie Tilley,57.5kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,20,BetR
+La Vittoria,12,14,Kenji Yoshida,55.5kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,161,BoomBet
+Field Agent,14,5,Nozi Tomizawa,55.0kg,Toowoomba,R3,1200m,Good 4,BM 60 Hcp,$22.5k,11°C broken clouds,18:23:00,41,BetR
+Masamune,1,8,Brad Parnham,60.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,4,Bet365
+Californication,2,14,Patrick Carbery,59.5kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,26,TABtouch
+Idyllic Ruler,3,9,Zephen Johnston-porter,59.5kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,20,TABtouch
+Soldanelle,4,5,William Pike,59.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,4.7,Betfair
+Thermosphere Lad,5,1,Chanel Cooper,58.5kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,15,TABtouch
+True Apostle,6,11,Chris Parnham,58.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,7.6,BoomBet
+Harbin,7,4,Joey Azzopardi,57.5kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,31,Ubet
+Manhattan Strip,8,2,Natasha Faithfull,57.5kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,10,TABtouch
+Jelly Can Run,9,6,Jason Whiting,57.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,15,TABtouch
+Amjaad,11,7,Steven Parnham,56.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,19,Ubet
+Teabiscuit,12,3,Holly Watson,54.5kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,23,Ladbrokes
+Blue Card,13,10,Troy Turner,54.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,73,BoomBet
+Karnup Queen,14,13,Shaun O'donnell,54.0kg,Belmont,R7,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,18:30:00,9.6,BoomBet
+Falcon Trader,1,1,Kate Pateman,62.5kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,3.6,Bet365
+Zadar Rock,2,4,Michael Heagney,60.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,3.45,BoomBet
+Acermetric,3,2,Kyra Yuill,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,3.9,Sportsbet
+Captain Rogers,4,6,Bailey Webster,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,35,BoomBet
+Chuck A Luck,5,7,Holly Nottle,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,11.2,BoomBet
+Grece Lightning,6,5,Kristy Bennett,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,71,Bet365
+Hezazeb,7,8,Lisa Staples,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,15.2,BoomBet
+High Commission,8,3,Elisha Whittington,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,9.1,BoomBet
+Mercian Hymn,9,9,Sharni Webster,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,10,Ubet
+War Class,10,10,Ava Catarino,55.0kg,Roebourne,R7,2200m,2200m,3YO+ Open Hcp,$50k,12°C broken clouds,18:45:00,161,BoomBet
+Skywolf,1,5,Chloe Lowe,63.0kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,4.9,Betfair
+The Deputy,3,8,Rob Thorburn,59.0kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,2.76,Betfair
+Katdeel,4,4,Bailey Wheeler,57.5kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,3.6,Ladbrokes
+Unleash,5,2,Nozi Tomizawa,57.0kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,63,BoomBet
+Count The Coin,6,7,Stacey Callow,56.5kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,35,BoomBet
+Cracker Essgee,7,9,Chelsea Baker,54.5kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,11,BetR
+Naughty Words,8,6,Shania Willis,54.5kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,5.5,BetR
+Vancity,9,1,Karl Zechner,54.0kg,Toowoomba,R4,1300m,Good 4,BM 72 Hcp,$22.5k,11°C broken clouds,18:55:00,23.5,BoomBet
+Simply Thinkin',1,10,William Pike,60.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,5.1,BoomBet
+Changing Guard,2,13,Zephen Johnston-porter,59.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,43,BoomBet
+Playing Games,3,4,Laqdar Ramoly,58.5kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,10,Bet365
+Estimator,4,5,Brayden Gaerth,58.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,21,Bet365
+Santanova,5,3,Chris Parnham,57.5kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,7,Bet365
+Red Tori,6,14,Brad Parnham,57.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,12,Bet365
+Warralea Lass,7,7,Shaun McGruddy,57.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,43,BoomBet
+Frappuccino,8,1,Holly Watson,56.5kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,21,Bet365
+Spectacular Park,9,2,Amy Jo Hayes,56.5kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,13.2,BoomBet
+L'il Capri,10,8,Chanel Cooper,56.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,19,Bet365
+Cobbanco,12,12,Keshaw Dhurun,55.5kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,20,Sportsbet
+Surf Patrol,13,6,Natasha Faithfull,55.5kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,4.4,Bet365
+My Jimmy,14,9,Shaun O'donnell,54.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,8.5,Ladbrokes
+Runforrob,15,15,Jade McNaught,54.0kg,Belmont,R8,1300m,Soft 7,2YO+ Rest 1 Metro Win Hcp,$60k,9°C clear sky,19:07:00,111,BoomBet
+Betta Than Presley,1,12,Nozi Tomizawa,58.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,16.2,BoomBet
+Kool Bruce,3,5,Kenji Yoshida,58.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,20,Sportsbet
+Revantas,5,1,Karl Zechner,58.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,2.36,Betfair
+Balerion Drive,6,17,Leslie Tilley,56.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,2.7,Ubet
+I'ma Charmer,9,2,Brandon Lerena,56.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,19.2,BoomBet
+Leucaena,10,4,Scott Sheargold,56.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,63,BoomBet
+Spirit Seeker,12,3,Amy Graham,56.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,11,BetR
+Decorative,13,15,Bailey Wheeler,56.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,7.2,Betfair
+The Publican,15,8,Chloe Lowe,58.0kg,Toowoomba,R5,1000m,Good 4,3YO Mdn Set Weight,$24.5k,11°C broken clouds,19:33:00,126,Ladbrokes
+Corvalist,1,4,Olivia Webb,58.5kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,4.5,Betfair
+He Da Boss,2,1,Shania Willis,58.5kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,63,BoomBet
+Red Toffee,5,13,Stacey Callow,58.5kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,11,Ubet
+Powerful Warrior,8,11,Jake Molloy,58.0kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,43,BoomBet
+Tosmian,9,5,Brandon Lerena,56.5kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,8.2,Betfair
+Rare Moon,11,7,Nozi Tomizawa,56.0kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,10.2,BoomBet
+Wise Choice,12,2,Chloe Lowe,56.0kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,1.85,Ladbrokes
+She's Got Grace,13,3,Leslie Tilley,56.0kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,34,ColossalBet
+O'reilly's Shout,14,12,Chelsea Baker,56.5kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,131,BoomBet
+Kwinterna,15,8,Hannah Richardson,56.5kg,Toowoomba,R6,1050m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:04:00,71,ColossalBet
+Bush Wookie,1,11,Jake Molloy,58.5kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,11.2,BoomBet
+City Of Troy,2,7,Rob Thorburn,58.5kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,61,ColossalBet
+Life Of Tree,3,10,Hannah Richardson,58.5kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,14,BetR
+Ilegitimo,4,2,Scott Sheargold,58.0kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,12,Ubet
+Somethin In Orange,5,3,Nathan Fazackerley,58.0kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,2.56,Betfair
+Cut Diamonds,6,4,Karl Zechner,56.5kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,20.5,BoomBet
+Stella Simone,7,6,Stacey Callow,56.5kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,17.2,BoomBet
+Bitung,8,5,Nozi Tomizawa,56.0kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,23,BetR
+Not My Problem,9,8,Brandon Lerena,56.0kg,Toowoomba,R7,1625m,Good 4,Mdn Set Weight,$24.5k,11°C broken clouds,20:35:00,2.26,Betfair
